@@ -1,7 +1,7 @@
 ---
 title: "The Comeback of Vintage Computing: A Detailed Overview of the Iconic Atari THE400 Mini and Its Classic Game Library"
-date: 2024-08-26 14:13:43
-updated: 2024-08-29 11:41:48
+date: 2024-08-30T20:23:21.422Z
+updated: 2024-08-31T20:23:21.422Z
 tags:
   - product-reviews
 categories:
@@ -99,10 +99,16 @@ The rear of THE400 Mini.
 
  On the rear of THE400 Mini is a USB-A port, HDMI port, USB-C port, and power button. On the front are four additional USB-A ports. The five USB-A ports support additional controllers, memory sticks, and keyboards. Most games only support one or two players, but one of the games, "M.U.L.E.," supports up to four players at once.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Interface and Software: Retro, but Modern** 
 
 ![THE400 Mini Joystick](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/03/the400-mini-joystick.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 Bill Loguidice / How-To Geek
 
 THECXSTICK.
@@ -119,10 +125,16 @@ Close
 
  THE400 Mini supports FAT32-formatted USB sticks, although I did have to try a few different brands to find one that was properly recognized. When inserting a compatible blank USB stick, a version of the [BASIC programming language](https://atariwiki.org/wiki/Wiki.jsp?page=Atari%20BASIC) is installed. Similarly, THE400 Mini didn't like my wireless Logitech K400r keyboard but had no issues with a wired [Razer BlackWidow V3 Pro](https://www.amazon.com/Razer-BlackWidow-Mechanical-Gaming-Keyboard/dp/B08FQPLCNC/?tag=hotoge-20&ascsubtag=UUhtgUeUpU2002451&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fatari-the400-mini-review%2F&asc%5Fcampaign=Authority). Not every key on a modern keyboard maps correctly to the Atari 8-bit keyboard layout, but using the legend on the Mini can provide some clues.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## **Games and Gameplay: Past Blasts** 
 
 ![THE400 Mini Front with USB-A ports](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/03/the400-mini-front.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Bill Loguidice / How-To Geek
 
 The front of THE400 Mini.
@@ -151,6 +163,9 @@ Close
 
  Finally, if you don't like the included THECXSTICK or just want more than one controller and don't want to use another THECXSTICK, THEJOYSTICK, or THEGAMEPAD, modern Microsoft Xbox, Sony PlayStation, and Nintendo Switch controllers can be used. For instance, I was able to use an [8BitDo USB Wireless Adapter 2](https://www.amazon.com/8Bitdo-Wireless-Compatible-Controller-Bluetooth/dp/B09M8CVMYF?tag=hotoge-20&ascsubtag=UUhtgUeUpU2002451&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fatari-the400-mini-review%2F&asc%5Fcampaign=Authority) with an Xbox One controller for a nice wireless option.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Should You Buy the Atari THE400 Mini?** 
 
  Retro Games Ltd. knows what they're doing when it comes to designing mass-market nostalgia plays. [THE400 Mini](https://www.amazon.com/THE400-Mini-Not-Machine-Specific/dp/B0CS3VD9TJ/?tag=hotoge-20&ascsubtag=UUhtgUeUpU2002451&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fatari-the400-mini-review%2F&asc%5Fcampaign=Authority) from Atari does a great job of making a past platform accessible to those interested in exploring what one of the most popular computer gaming platforms of all time was all about. It gives a great taste of what some of the best 1970s and 1980s gaming was like and shows how deep Atari's back catalog of systems really is.
@@ -159,6 +174,9 @@ Close
 
 ![Atari - The400 Mini and Joystick](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/atari-the400-mini-and-joystick.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
 #####  THE400 Mini
 
 7/ 10 
@@ -183,3 +201,40 @@ THE400 Mini is a plug and play retro game console based on the popular Atari 8-b
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-the-ultimate-guide-to-efficient-mobile-video-management/"><u>[New] 2024 Approved  The Ultimate Guide to Efficient Mobile Video Management</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-expertly-engineered-10-tiktok-creators-essentials-wpc-for-2024/"><u>[New] Expertly Engineered 10 TikTok Creators' Essentials (W/PC) for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-10-iphone-camera-features-you-should-know-in-ios-11/"><u>[Updated] 10 iPhone Camera Features You Should Know in iOS 11</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-navigating-url-integration-in-ig-stories-and-posts/"><u>[Updated] 2024 Approved  Navigating URL Integration in IG Stories and Posts</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-collaborative-video-creation-and-growth-tips-for-2024/"><u>[Updated] Collaborative Video Creation & Growth Tips for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-zoom-room-usage-for-first-time-users/"><u>[Updated] In 2024, Zoom Room Usage for First-Time Users</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-step-up-your-mobile-filmmaking-with-these-9-must-have-tools/"><u>2024 Approved  Step Up Your Mobile Filmmaking with These 9 Must-Have Tools</u></a></li>
+<li><a href="https://discover-help.techidaily.com/iosmac-macx-mediatrans/"><u>専用データ管理ツール：iOSからMacへの写真転送プロセス解説 - MacX MediaTrans</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/best-caller-id-changers-and-their-enchanting-alternatives/"><u>Best Caller ID Changers & Their Enchanting Alternatives</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/buzzing-on-both-platforms-top-10-tiktok-tweets-explored-for-2024/"><u>Buzzing on Both Platforms  Top 10 TikTok Tweets Explored for 2024</u></a></li>
+<li><a href="https://discover-help.techidaily.com/choosing-the-ideal-voice-assistant-a-comparative-review-of-apples-homepod-and-amazons-echo/"><u>Choosing the Ideal Voice Assistant: A Comparative Review of Apple's HomePod and Amazon's Echo</u></a></li>
+<li><a href="https://discover-help.techidaily.com/comparative-analysis-of-dvd-storage-capacities-dvd9-versus-dvd5/"><u>Comparative Analysis of DVD Storage Capacities: DVD9 Versus DVD5</u></a></li>
+<li><a href="https://discover-help.techidaily.com/convert-netflix-titles-easily-accessible-as-free-mp4-downloads-now/"><u>Convert Netflix Titles Easily - Accessible as Free MP4 Downloads Now!</u></a></li>
+<li><a href="https://win11.techidaily.com/customize-your-windows-experience-filter-key-settings/"><u>Customize Your Windows Experience: Filter Key Settings</u></a></li>
+<li><a href="https://discover-help.techidaily.com/download-high-definition-mp4-videos-of-the-63rd-annual-grammy-awards-2021-complete-collection/"><u>Download High-Definition MP4 Videos of the 63Rd Annual Grammy Awards, 2021 - Complete Collection</u></a></li>
+<li><a href="https://discover-help.techidaily.com/easy-guide-to-compressing-dvd-9-into-compact-dvd-5-formats/"><u>Easy Guide to Compressing DVD-9 Into Compact DVD-5 Formats</u></a></li>
+<li><a href="https://discover-help.techidaily.com/effortless-editing-with-imovie-how-to-import-and-transform-wmv-videos-on-a-mac-computer/"><u>Effortless Editing with iMovie: How to Import and Transform WMV Videos on a Mac Computer</u></a></li>
+<li><a href="https://win-dash.techidaily.com/fast-track-driver-downloads-for-your-dell-g7-a-hassle-free-approach/"><u>Fast-Track Driver Downloads for Your Dell G7: A Hassle-Free Approach</u></a></li>
+<li><a href="https://discover-help.techidaily.com/free-high-definition-4k-360-video-downloads-mp4-3gp-and-flv-formats/"><u>Free High-Definition 4K, 360° Video Downloads: MP4, 3GP, and FLV Formats</u></a></li>
+<li><a href="https://discover-help.techidaily.com/full-hd-mp4-and-mp3-collection-of-the-2021-british-phonographic-industrys-annual-music-gala-videos-and-songs/"><u>Full HD MP4 and MP3 Collection of the 2021 British Phonographic Industry's Annual Music Gala Videos and Songs</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-on-apple-iphone-se-2022-without-password-by-drfone-ios/"><u>How to Delete iCloud Account On Apple iPhone SE (2022) without Password?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-any-realme-c55-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Realme C55 Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://discover-help.techidaily.com/imovie-troubleshooting-guide-restoring-audio-on-your-mp4-video-imports/"><u>IMovie Troubleshooting Guide: Restoring Audio on Your MP4 Video Imports</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-oppo-a38-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Oppo A38 to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Infinix Note 30 VIP Racing Edition? | Dr.fone</u></a></li>
+<li><a href="https://discover-help.techidaily.com/mac-os-x-dvd-conversion-and-compression-using-dvd-shrink-tool/"><u>Mac OS X DVD Conversion & Compression Using DVD Shrink Tool</u></a></li>
+<li><a href="https://discover-help.techidaily.com/quick-guide-convert-and-download-youtube-media-as-mp4mp3-using-speedy-yt-converter/"><u>Quick Guide: Convert & Download YouTube Media as MP4/MP3 Using Speedy YT Converter</u></a></li>
+<li><a href="https://discover-help.techidaily.com/ripperpro-for-macos-x-convert-dvds-into-itunes-compatible-mp4-files-and-protected-dvd-ripping/"><u>RipperPro for MacOS X – Convert DVDs Into iTunes-Compatible MP4 Files & Protected DVD Ripping</u></a></li>
+<li><a href="https://discover-help.techidaily.com/top-twelve-techniques-to-extract-sound-from-youtube-videos-using-a-mac/"><u>Top Twelve Techniques to Extract Sound From YouTube Videos Using a Mac</u></a></li>
+<li><a href="https://discover-help.techidaily.com/troubleshooting-silent-youtube-videos-effective-solutions-to-restore-audio/"><u>Troubleshooting Silent YouTube Videos: Effective Solutions to Restore Audio</u></a></li>
+<li><a href="https://discover-help.techidaily.com/ultimate-tutorial-share-screen-and-stream-media-from-apple-devices-to-tv-via-google-chromecast/"><u>Ultimate Tutorial: Share Screen & Stream Media From Apple Devices to TV via Google Chromecast</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/visual-verdict-clash-sj6-prodigy-versus-yis-4k-masterpiece-for-2024/"><u>Visual Verdict Clash  SJ6 Prodigy Versus Yi’s 4K Masterpiece for 2024</u></a></li>
+<li><a href="https://discover-help.techidaily.com/why-you-should-avoid-using-tube2gram-for-uploading-videos-from-youtube-to-instagram/"><u>Why You Should Avoid Using Tube2Gram for Uploading Videos From YouTube to Instagram</u></a></li>
+</ul></div>

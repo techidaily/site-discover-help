@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to the Cherry XTRFY K5V2 Keyboard - A Review on Cutting-Edge Red Switch Performance
-date: 2024-08-26 11:52:50
-updated: 2024-08-29 12:51:26
+date: 2024-08-30T20:23:22.542Z
+updated: 2024-08-31T20:23:22.542Z
 tags:
   - product-reviews
 categories:
@@ -113,10 +113,16 @@ Sergio Rodriguez / How-To Geek
 
  The keyboard also features pre-lubed, PCB-mounted stabilizers to ensure that the ABS keycaps respond reliably to your key presses, no matter how frantically you hit them. Beyond that, the XTRFY K5V2's keys are hot-swappable, meaning you can change them out for others. Also, as a sucker for lights, I have to point out that the per-key RGB lighting on this board is stellar.
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Sweet New Cherry Key Switches
 
 ![keycaps-and-a-switch-removed-from-the-cherry-k5v2-keyboard-2jpg_53542723542_o-2](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/keycaps-and-a-switch-removed-from-the-cherry-k5v2-keyboard-2jpg_53542723542_o-2.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Sergio Rodriguez / How-To Geek
 
  The XTRFY K5V2's biggest draw has to be its new key switches. As I mentioned, Cherry is known for its high-quality key switches. The XTRFY K5V2 debuts Cherry's new MX2A Red switches, which have a different mechanism than the venerable (and much-loved) MX Red switches.
@@ -129,6 +135,9 @@ Sergio Rodriguez / How-To Geek
 
 ![Angled view of the backlit Cherry K5V2 Keyboard](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/angled-view-of-the-backlit-cherry-k5v2-keyboard-1jpg_53543595886_o-2.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Sergio Rodriguez / How-To Geek
 
  Interestingly, Cherry doesn't offer software for its new keyboard. Instead, it packed a boatload of customization features into the board itself. Nearly every key has icons or text on the user-facing side. Hold the FN key, and they're active. Media controls? Check. RGB lighting options? Check. Macros? You betcha. It even has mouse control options.
@@ -139,6 +148,9 @@ Sergio Rodriguez / How-To Geek
 
  The keyboard also has a function key that lets you swap between USB 2.0 and 3.0\. If you plug the keyboard into a USB 3.0 port, it can improve the RGB lighting.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Should You Buy the Cherry XTRFY K5V2?
 
 ![The Cherry K5V2 keyboard with its box and accessories](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/the-cherry-k5v2-keyboard-with-its-box-and-accessories-2jpg_53542721052_o-2.jpg) 
@@ -149,8 +161,14 @@ Sergio Rodriguez / How-To Geek
 
 ![Cherry XTRFY K5V2](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/amazoncherryxtrfyk5v2.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-rec-2024-2000-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 #####  Cherry XTRFY K5V2
 
 8/ 10 
@@ -229,3 +247,48 @@ Expand
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-smoothrecorder-ultimate-edition/"><u>[New] In 2024, SmoothRecorder Ultimate Edition</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-joint-venture-campaigns-for-brands-on-video-platforms/"><u>[New] Joint Venture Campaigns for Brands on Video Platforms</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-exploring-the-best-free-youtube-video-editors-for-ios/"><u>[Updated] In 2024, Exploring the Best Free YouTube Video Editors for iOS</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-how-to-optimize-vertical-or-horizontal-vids-on-fb/"><u>[Updated] In 2024, How To Optimize Vertical or Horizontal Vids On FB</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-ultimate-comparison-of-gif-creators-for-2024/"><u>[Updated] The Ultimate Comparison of GIF Creators for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-the-prime-video-recording-devices-top-10/"><u>2024 Approved  The Prime Video Recording Devices  Top 10</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-top-cycling-sims-worth-your-time/"><u>2024 Approved  Top Cycling Sims Worth Your Time</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-xiaomi-mix-fold-3-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Xiaomi Mix Fold 3 to Roku | Dr.fone</u></a></li>
+<li><a href="https://discover-help.techidaily.com/iosmac-macx-mediatrans/"><u>専用データ管理ツール：iOSからMacへの写真転送プロセス解説 - MacX MediaTrans</u></a></li>
+<li><a href="https://tools.techidaily.com/aiseesoft/pdf-converter-ultimate/"><u>Aiseesoft PDF Converter Ultimate</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/best-practices-when-basking-in-the-podcast-glow/"><u>Best Practices When Basking in the Podcast Glow</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/boost-your-creativity-top-50plus-tiktok-motivational-quotes-for-2024/"><u>Boost Your Creativity  Top 50+ TikTok Motivational Quotes for 2024</u></a></li>
+<li><a href="https://discover-help.techidaily.com/choosing-the-ideal-voice-assistant-a-comparative-review-of-apples-homepod-and-amazons-echo/"><u>Choosing the Ideal Voice Assistant: A Comparative Review of Apple's HomePod and Amazon's Echo</u></a></li>
+<li><a href="https://discover-help.techidaily.com/comparative-analysis-of-dvd-storage-capacities-dvd9-versus-dvd5/"><u>Comparative Analysis of DVD Storage Capacities: DVD9 Versus DVD5</u></a></li>
+<li><a href="https://discover-help.techidaily.com/convert-netflix-titles-easily-accessible-as-free-mp4-downloads-now/"><u>Convert Netflix Titles Easily - Accessible as Free MP4 Downloads Now!</u></a></li>
+<li><a href="https://discover-help.techidaily.com/download-high-definition-mp4-videos-of-the-63rd-annual-grammy-awards-2021-complete-collection/"><u>Download High-Definition MP4 Videos of the 63Rd Annual Grammy Awards, 2021 - Complete Collection</u></a></li>
+<li><a href="https://discover-help.techidaily.com/easy-guide-to-compressing-dvd-9-into-compact-dvd-5-formats/"><u>Easy Guide to Compressing DVD-9 Into Compact DVD-5 Formats</u></a></li>
+<li><a href="https://discover-help.techidaily.com/effortless-editing-with-imovie-how-to-import-and-transform-wmv-videos-on-a-mac-computer/"><u>Effortless Editing with iMovie: How to Import and Transform WMV Videos on a Mac Computer</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/erfolgreiches-papierlose-verwaltung-von-finanzdokumenten-praxiserfahrungen-und-zukunftspotenziale/"><u>Erfolgreiches Papierlose Verwaltung Von Finanzdokumenten: Praxiserfahrungen Und Zukunftspotenziale</u></a></li>
+<li><a href="https://discover-help.techidaily.com/free-high-definition-4k-360-video-downloads-mp4-3gp-and-flv-formats/"><u>Free High-Definition 4K, 360° Video Downloads: MP4, 3GP, and FLV Formats</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/french-novels-to-start-reading-an-essential-guide-for-newcomers/"><u>French Novels to Start Reading: An Essential Guide for Newcomers</u></a></li>
+<li><a href="https://discover-help.techidaily.com/full-hd-mp4-and-mp3-collection-of-the-2021-british-phonographic-industrys-annual-music-gala-videos-and-songs/"><u>Full HD MP4 and MP3 Collection of the 2021 British Phonographic Industry's Annual Music Gala Videos and Songs</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-13-mini-drfone-by-drfone-ios/"><u>How to Unlock iPhone 13 mini? | Dr.fone</u></a></li>
+<li><a href="https://discover-help.techidaily.com/imovie-troubleshooting-guide-restoring-audio-on-your-mp4-video-imports/"><u>IMovie Troubleshooting Guide: Restoring Audio on Your MP4 Video Imports</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-apps-and-online-tools-to-track-tecno-spark-20-proplus-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Tecno Spark 20 Pro+ Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://discover-help.techidaily.com/mac-os-x-dvd-conversion-and-compression-using-dvd-shrink-tool/"><u>Mac OS X DVD Conversion & Compression Using DVD Shrink Tool</u></a></li>
+<li><a href="https://review-topics.techidaily.com/oppo-reno-11-pro-5g-unlock-tool-remove-android-phone-password-pin-pattern-and-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Oppo Reno 11 Pro 5G Unlock Tool - Remove android phone password, PIN, Pattern and fingerprint</u></a></li>
+<li><a href="https://discover-help.techidaily.com/quick-guide-convert-and-download-youtube-media-as-mp4mp3-using-speedy-yt-converter/"><u>Quick Guide: Convert & Download YouTube Media as MP4/MP3 Using Speedy YT Converter</u></a></li>
+<li><a href="https://discover-help.techidaily.com/ripperpro-for-macos-x-convert-dvds-into-itunes-compatible-mp4-files-and-protected-dvd-ripping/"><u>RipperPro for MacOS X – Convert DVDs Into iTunes-Compatible MP4 Files & Protected DVD Ripping</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-art-of-fisheye-lens-in-360-imagery/"><u>The Art of Fisheye Lens in 360 Imagery</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/the-art-of-music-laced-tiktok-production-for-2024/"><u>The Art of Music-Laced TikTok Production for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/the-ultimate-guide-to-swift-and-smooth-ipad-recordings/"><u>The Ultimate Guide to Swift and Smooth iPad Recordings</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-the-oculus-quest-2-stellar-vr-gaming-for-a-fantastic-deal/"><u>The Ultimate Guide to the Oculus Quest 2 - Stellar VR Gaming for a Fantastic Deal</u></a></li>
+<li><a href="https://discover-help.techidaily.com/top-twelve-techniques-to-extract-sound-from-youtube-videos-using-a-mac/"><u>Top Twelve Techniques to Extract Sound From YouTube Videos Using a Mac</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-elex-ii-fixing-your-game-from-endless-crashes-on-personal-computers-effectively/"><u>Troubleshooting ELEX II: Fixing Your Game From Endless Crashes on Personal Computers Effectively</u></a></li>
+<li><a href="https://discover-help.techidaily.com/troubleshooting-silent-youtube-videos-effective-solutions-to-restore-audio/"><u>Troubleshooting Silent YouTube Videos: Effective Solutions to Restore Audio</u></a></li>
+<li><a href="https://discover-help.techidaily.com/ultimate-tutorial-share-screen-and-stream-media-from-apple-devices-to-tv-via-google-chromecast/"><u>Ultimate Tutorial: Share Screen & Stream Media From Apple Devices to TV via Google Chromecast</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-reaction-video-mastery-tips-and-tricks-with-filmora/"><u>Updated Reaction Video Mastery Tips and Tricks with Filmora</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-ultimate-guide-how-to-live-stream-on-facebook-in-2024/"><u>Updated Ultimate Guide How to Live Stream on Facebook, In 2024</u></a></li>
+<li><a href="https://discover-help.techidaily.com/why-you-should-avoid-using-tube2gram-for-uploading-videos-from-youtube-to-instagram/"><u>Why You Should Avoid Using Tube2Gram for Uploading Videos From YouTube to Instagram</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win11-dark-screen-fix-mouse-appears/"><u>Win11 Dark Screen Fix: Mouse Appears</u></a></li>
+</ul></div>
