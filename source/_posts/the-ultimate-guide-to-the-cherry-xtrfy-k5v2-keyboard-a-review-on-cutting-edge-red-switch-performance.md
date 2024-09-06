@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to the Cherry XTRFY K5V2 Keyboard - A Review on Cutting-Edge Red Switch Performance
-date: 2024-08-30T20:23:22.542Z
-updated: 2024-08-31T20:23:22.542Z
+date: 2024-09-05T10:35:00.399Z
+updated: 2024-09-06T10:35:00.399Z
 tags:
   - product-reviews
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/top-view-of-the-cherry-k5v2-keyboardjpg_53543918694_o-2.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## The Ultimate Guide to the Cherry XTRFY K5V2 Keyboard - A Review on Cutting-Edge Red Switch Performance
 
 ### Key Takeaways
@@ -23,6 +29,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-rec-2024-2000-1.png) 
 
+<!-- affiliate ads begin -->
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 #####  Cherry Xtrfy K5V2
 
 8/ 10 
@@ -97,6 +115,12 @@ Expand
 
 [Amazon](https://www.amazon.com/Xtrfy-Mechanical-Keyboard-Swappable-Switches/dp/B0CTMZY7TX/ref=sr%5F1%5F3?crid=19YOL40WQLGKJ&dib=eyJ2IjoiMSJ9.Sy%5FFSJt40vqerbZFmwv5LmMlFvnH9w0fpztAICjRFQw.n41vgrDyU0LpZgB%5FZv0yWlg%5F2mV2LiiVhO-re9iehzc&dib%5Ftag=se&keywords=cherry%2Bxtrfy%2Bk5v2&qid=1713027908&sprefix=cherry%2Bxtrfy%2Bk5v2%2Caps%2C118&sr=8-3&th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU2002348&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fcherry-xtrfy-k5v2-review%2F&asc%5Fcampaign=Authority) [Cherry](https://cherryxtrfy.com/keyboards/k5v2-compact/) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  The 65% Keyboard: Small, but Mighty
 
 ![Angled view of the backlit Cherry K5V2 Keyboard](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/angled-view-of-the-backlit-cherry-k5v2-keyboard-1jpg_53543595886_o-2.jpg) 
@@ -113,16 +137,10 @@ Sergio Rodriguez / How-To Geek
 
  The keyboard also features pre-lubed, PCB-mounted stabilizers to ensure that the ABS keycaps respond reliably to your key presses, no matter how frantically you hit them. Beyond that, the XTRFY K5V2's keys are hot-swappable, meaning you can change them out for others. Also, as a sucker for lights, I have to point out that the per-key RGB lighting on this board is stellar.
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Sweet New Cherry Key Switches
 
 ![keycaps-and-a-switch-removed-from-the-cherry-k5v2-keyboard-2jpg_53542723542_o-2](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/keycaps-and-a-switch-removed-from-the-cherry-k5v2-keyboard-2jpg_53542723542_o-2.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Sergio Rodriguez / How-To Geek
 
  The XTRFY K5V2's biggest draw has to be its new key switches. As I mentioned, Cherry is known for its high-quality key switches. The XTRFY K5V2 debuts Cherry's new MX2A Red switches, which have a different mechanism than the venerable (and much-loved) MX Red switches.
@@ -131,12 +149,21 @@ Sergio Rodriguez / How-To Geek
 
  Preferences vary, of course, but I feel confident saying that if you like Cherry Red switches, you'll be very happy with this new switch version.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  No Software? No Problem—Mostly
 
 ![Angled view of the backlit Cherry K5V2 Keyboard](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/angled-view-of-the-backlit-cherry-k5v2-keyboard-1jpg_53543595886_o-2.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Sergio Rodriguez / How-To Geek
 
@@ -149,26 +176,29 @@ Sergio Rodriguez / How-To Geek
  The keyboard also has a function key that lets you swap between USB 2.0 and 3.0\. If you plug the keyboard into a USB 3.0 port, it can improve the RGB lighting.
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Should You Buy the Cherry XTRFY K5V2?
 
 ![The Cherry K5V2 keyboard with its box and accessories](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/the-cherry-k5v2-keyboard-with-its-box-and-accessories-2jpg_53542721052_o-2.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Sergio Rodriguez / How-To Geek
 
  The [Cherry XTRFY K5V2](http://www.amazon.com/Xtrfy-Mechanical-Keyboard-Swappable-Switches/dp/B0CTMZY7TX/ref=sr%5F1%5F3?crid=2M1QNB34S5TNV&dib=eyJ2IjoiMSJ9.Sy%5FFSJt40vqerbZFmwv5LmMlFvnH9w0fpztAICjRFQw.n41vgrDyU0LpZgB%5FZv0yWlg%5F2mV2LiiVhO-re9iehzc&dib%5Ftag=se&keywords=cherry+xtrfy+k5v2&qid=1712543144&sprefix=cherry+xt%2Caps%2C120&sr=8-3&tag=hotoge-20&ascsubtag=UUhtgUeUpU2002348&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fcherry-xtrfy-k5v2-review%2F&asc%5Fcampaign=Authority) is a big win. Yes, the lack of software means you have to interpret various icons to change settings. And, at $139, it's pricier than, say, the [Keychron C3 Pro](https://some-tips.techidaily.com/updated-the-art-of-transferring-tunes-between-platforms/). But should the XTRFY K5V2 fit your budget, I'd jump on it. I love the sound and feel of the new keys, the layout, and the RGB lighting. I don't think a gamer can go wrong with this mechanical keyboard.
 
 ![Cherry XTRFY K5V2](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/amazoncherryxtrfyk5v2.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-rec-2024-2000-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #####  Cherry XTRFY K5V2
 
 8/ 10 

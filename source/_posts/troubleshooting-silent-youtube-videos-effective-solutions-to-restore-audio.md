@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Silent YouTube Videos: Effective Solutions to Restore Audio"
-date: 2024-08-30T20:23:31.909Z
-updated: 2024-08-31T20:23:31.909Z
+date: 2024-09-05T10:35:00.597Z
+updated: 2024-09-06T10:35:00.597Z
 categories:
   - macxdvd
 thumbnail: https://thmb.techidaily.com/8b607e0e604394629b363ae69329923c5b752c9a4c4af741aef58011df0d7554.jpg
@@ -21,6 +21,12 @@ _Find your YouTube videos on sound? Don't panic. You're not alone and it happens
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/article-seo/icon1.png) By [Bertha Miller](https://www.linkedin.com/in/bertha-miller-7a324990/) to YouTube, YouTube Problems｜Last updated on Nov 28, 2018
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 
 If you cannot hear any sound when playing YouTube videos or fail to get any audio from YouTube for various unknown causes, calm down, man, here I will help you analyze why the YouTube no sound problem happens and show you a clear path to fix the issue with YouTube sound with the greatest ease. 
@@ -29,6 +35,12 @@ If you cannot hear any sound when playing YouTube videos or fail to get any audi
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/article-seo/solution.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### A Versatile Solution to Play YouTube Videos with High-Quality Audio
 
 [MacX YouTube Downloader](https://tools.techidaily.com/macxdvd/products/) \- Free download any SD or HD or 4K UHD videos with original audio track and video quality reserved. Watch videos offline and keep you away from bothering Adobe Flash Player issues and web browser bugs.
@@ -36,12 +48,21 @@ If you cannot hear any sound when playing YouTube videos or fail to get any audi
 [![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/article-seo/d-win.png)](https://tools.techidaily.com/macxdvd/products/) [![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/article-seo/d-mac.png)](https://tools.techidaily.com/macxdvd/products/) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<a href="https://25home.pxf.io/c/5597632/2123479/16836" target="_top" id="2123479">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123479" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123479/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Why Do YouTube Videos Have No Sound? How to Solve it?
 
 I can imagine how confused and frustrated you would be when you meet the YouTube no audio problem. And you might be very curious about the reasons. And so am I. After accessing to loads of detailed info and consulting to the technical experts, eventually I get the ultimate solution for YouTube no sound issues, along with some clues about the possible reasons.
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Case 1: Play Online YouTube Video with Video but No Audio
 
 Prior to one by one list out the possible reasons, I just want to remind you to check your sound track on your computer and make sure whether it's on or not, for some of us may forget to turn on your audio device on your computer. So, this is the primary step you need to do. Besides, chances are also that the YouTube videos you are playing belong to the copy protected ones. That's to say, they don't give you full access to enjoy the contents unless you pay for them or rent them and then you are allowed to watch YouTube videos with video and audio.
@@ -72,6 +93,12 @@ Have you ever considered the possible reason of your web browser to the YouTube 
 
 ![No sound/audio in YouTube videos fixed](https://www.macxdvd.com/mac-dvd-video-converter-how-to/article-image/web-browser.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 For the fans of **Internet Explorer**, you have two solutions to fix no sound on YouTube videos problem.   
 **#1:** Copy the text starting from "Windows Registry Editor Version 5.00" --> Open "Notepad" --> Paste it --> save the file as fix.reg (Attention: Don't forget the file extension .reg.) --> Double-click on fix.reg file --> Click on OK.  
 **#2:** Start Menu --> Run --> Type: regedit-->In the list go to: My Computer\\ HKEY\_LOCAL\_MACHINE \\ SO FTWARE \\ Microsoft \\ Windows NT \\ CurrentVersion \\ Drivers32 --> In the right pane, right-click --> Select new > String value --->Rename it as "wavemapper" --> Double-click it (Type: msacm32.drv) ---> Close the Registry editor.
@@ -80,18 +107,6 @@ For the buffs of **Google Chrome**, you can resolve YouTube no-audio issue by ch
 
 For the junkies of **Safari**, you can have a shot on the following method (workable for the majority, if no all): Find out System Preferences > Access to Other/ Flash Player > Advanced > Delete All --> Press the "Delete All" button --> Install Adobe Flash Player --> Quit Safari --> Restart computer and relaunch Safari. Instead of passively waiting for the expert's assistance, why not stand on your own feet to fix the YouTube no sound problem? 
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Case 2: Sick of Analyzing So Many Possible Reasons? Try on Once-for-All Solution!
 
 Tired of spending so much time and energy on endless trial and error? Now, don't be! Here exists an easiest way to worry-free fix your online videos no sound problem without caring any possible reason. That's the once-for-all solution - **download videos**, which keeps you from any bothering of no sound issue. 
@@ -101,11 +116,16 @@ To do that, here the highly recommended a cutting-edge tool - [**MacX YouTube Do
 [![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/btn-win.png)](https://tools.techidaily.com/macxdvd/products/) [![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/btn-mac.png)](https://tools.techidaily.com/macxdvd/products/) 
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2115940/19272" target="_top" id="2115940">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115940" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115940/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2115927/19272" target="_top" id="2115927">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115927" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115927/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### \[Tutorial\] How to Free Download Online Videos without Audio Issue 
 
@@ -121,6 +141,12 @@ Step 4: Tap "Download Now" button to start downloading videos without any troubl
 
 Well, if you also long to transfer your downloaded videos to your iPhone, iPad, Galaxy, Sony Z4, Surface Pro 3, etc for limitless watching, the advanced [**MacX Video Converter Pro**](https://tools.techidaily.com/macxdvd/products/) is the all you can desire from. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115914/19272" target="_top" id="2115914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115914" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What If YouTube Videos Playing Audio But No Video?
 
 Beyond the YouTube videos no sound problem you may come across, still you have highly possibility to meet the YouTube videos playing audio but no video problem. In such case, the reasons mainly rely on YouTube or your Adobe Flash Player. Here I gather the most effective solutions and hope it's workable for you.
@@ -137,9 +163,6 @@ Related Articles
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/article-seo/img1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 [Problems with YouTube Loading and Buffering Resolved!](https://tools.techidaily.com/macxdvd/products/) 
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/article-seo/img2.jpg)
@@ -149,15 +172,15 @@ Related Articles
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/article-seo/img3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 [DVD Player Troubleshooting: Fix DVD Player No Sound Issue](https://tools.techidaily.com/macxdvd/products/) 
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/article-seo/ytd.png)
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### [MacX YouTube Downloader](https://tools.techidaily.com/macxdvd/products/)
 
 Free Download HD Videos for Playing without Any Sound Problems. 
@@ -178,17 +201,26 @@ MOST READ
 
 ![Digiarty Software](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../icon/logo.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Digiarty Software, Inc. (MacXDVD) is a leader in delivering stable multimedia software applications for worldwide users since its establishment in 2006.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Hot Products
 
 * [MacX DVD Ripper Pro](https://tools.techidaily.com/macxdvd/products/)
 * [MacX Video Converter Pro](https://tools.techidaily.com/macxdvd/products/)
 * [MacX MediaTrans](https://tools.techidaily.com/macxdvd/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Tips and Tricks
 
 * [DVD Topics >>](https://tools.techidaily.com/macxdvd/products/)
@@ -198,7 +230,16 @@ Digiarty Software, Inc. (MacXDVD) is a leader in delivering stable multimedia so
 * [Hot Topics >>](https://tools.techidaily.com/macxdvd/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Company
 
