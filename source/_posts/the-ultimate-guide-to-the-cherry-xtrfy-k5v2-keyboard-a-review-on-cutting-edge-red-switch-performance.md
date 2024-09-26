@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to the Cherry XTRFY K5V2 Keyboard - A Review on Cutting-Edge Red Switch Performance
-date: 2024-09-15T07:01:00.334Z
-updated: 2024-09-16T00:04:51.044Z
+date: 2024-09-21T21:49:06.192Z
+updated: 2024-09-25T21:32:31.738Z
 tags:
   - product-reviews
 categories:
@@ -97,6 +97,13 @@ Expand
 
 [Amazon](https://www.amazon.com/Xtrfy-Mechanical-Keyboard-Swappable-Switches/dp/B0CTMZY7TX/ref=sr%5F1%5F3?crid=19YOL40WQLGKJ&dib=eyJ2IjoiMSJ9.Sy%5FFSJt40vqerbZFmwv5LmMlFvnH9w0fpztAICjRFQw.n41vgrDyU0LpZgB%5FZv0yWlg%5F2mV2LiiVhO-re9iehzc&dib%5Ftag=se&keywords=cherry%2Bxtrfy%2Bk5v2&qid=1713027908&sprefix=cherry%2Bxtrfy%2Bk5v2%2Caps%2C118&sr=8-3&th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU2002348&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fcherry-xtrfy-k5v2-review%2F&asc%5Fcampaign=Authority) [Cherry](https://cherryxtrfy.com/keyboards/k5v2-compact/) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  The 65% Keyboard: Small, but Mighty
 
 ![Angled view of the backlit Cherry K5V2 Keyboard](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/angled-view-of-the-backlit-cherry-k5v2-keyboard-1jpg_53543595886_o-2.jpg) 
@@ -113,9 +120,29 @@ Sergio Rodriguez / How-To Geek
 
  The keyboard also features pre-lubed, PCB-mounted stabilizers to ensure that the ABS keycaps respond reliably to your key presses, no matter how frantically you hit them. Beyond that, the XTRFY K5V2's keys are hot-swappable, meaning you can change them out for others. Also, as a sucker for lights, I have to point out that the per-key RGB lighting on this board is stellar.
 
+<!-- affiliate ads begin -->
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Sweet New Cherry Key Switches
 
 ![keycaps-and-a-switch-removed-from-the-cherry-k5v2-keyboard-2jpg_53542723542_o-2](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/keycaps-and-a-switch-removed-from-the-cherry-k5v2-keyboard-2jpg_53542723542_o-2.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Sergio Rodriguez / How-To Geek
 
@@ -124,13 +151,6 @@ Sergio Rodriguez / How-To Geek
  I love typing on the MX2A Red switches. Typing text, pounding the WASD keys—every keypress is fast and comes with a satisfying (but not loud) clack. The spacebar was a little louder than the other keys, but not annoying.
 
  Preferences vary, of course, but I feel confident saying that if you like Cherry Red switches, you'll be very happy with this new switch version.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  No Software? No Problem—Mostly
 
@@ -150,13 +170,6 @@ Sergio Rodriguez / How-To Geek
 
 ![The Cherry K5V2 keyboard with its box and accessories](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/the-cherry-k5v2-keyboard-with-its-box-and-accessories-2jpg_53542721052_o-2.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Sergio Rodriguez / How-To Geek
 
  The [Cherry XTRFY K5V2](http://www.amazon.com/Xtrfy-Mechanical-Keyboard-Swappable-Switches/dp/B0CTMZY7TX/ref=sr%5F1%5F3?crid=2M1QNB34S5TNV&dib=eyJ2IjoiMSJ9.Sy%5FFSJt40vqerbZFmwv5LmMlFvnH9w0fpztAICjRFQw.n41vgrDyU0LpZgB%5FZv0yWlg%5F2mV2LiiVhO-re9iehzc&dib%5Ftag=se&keywords=cherry+xtrfy+k5v2&qid=1712543144&sprefix=cherry+xt%2Caps%2C120&sr=8-3&tag=hotoge-20&ascsubtag=UUhtgUeUpU2002348&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fcherry-xtrfy-k5v2-review%2F&asc%5Fcampaign=Authority) is a big win. Yes, the lack of software means you have to interpret various icons to change settings. And, at $139, it's pricier than, say, the [Keychron C3 Pro](https://some-tips.techidaily.com/updated-the-art-of-transferring-tunes-between-platforms/). But should the XTRFY K5V2 fit your budget, I'd jump on it. I love the sound and feel of the new keys, the layout, and the RGB lighting. I don't think a gamer can go wrong with this mechanical keyboard.
@@ -164,6 +177,13 @@ Sergio Rodriguez / How-To Geek
 ![Cherry XTRFY K5V2](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/amazoncherryxtrfyk5v2.jpg) 
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-rec-2024-2000-1.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #####  Cherry XTRFY K5V2
 
@@ -242,5 +262,21 @@ Expand
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/31125760-updated-2024-approved-best-hashtags-for-youtube-to-get-your-views-to-6-figures/"><u>[Updated] 2024 Approved Best Hashtags for YouTube to Get Your Views to 6 Figures</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-5-top-3d-design-apps-for-engaging-youtube-beginnings/"><u>2024 Approved 5 Top 3D Design Apps for Engaging YouTube Beginnings</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-music-infused-content-sharing-strategies-for-facebook/"><u>2024 Approved Music-Infused Content Sharing Strategies for Facebook</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-revealing-the-smarts-of-z2-play-mobile/"><u>2024 Approved Revealing the Smarts of Z2 Play Mobile</u></a></li>
+<li><a href="https://discover-help.techidaily.com/iosmac-macx-mediatrans/"><u>専用データ管理ツール：iOSからMacへの写真転送プロセス解説 - MacX MediaTrans</u></a></li>
+<li><a href="https://discover-help.techidaily.com/choosing-the-ideal-voice-assistant-a-comparative-review-of-apples-homepod-and-amazons-echo/"><u>Choosing the Ideal Voice Assistant: A Comparative Review of Apple's HomePod and Amazon's Echo</u></a></li>
+<li><a href="https://discover-help.techidaily.com/download-high-definition-mp4-videos-of-the-63rd-annual-grammy-awards-2021-complete-collection/"><u>Download High-Definition MP4 Videos of the 63Rd Annual Grammy Awards, 2021 - Complete Collection</u></a></li>
+<li><a href="https://discover-help.techidaily.com/easy-guide-to-compressing-dvd-9-into-compact-dvd-5-formats/"><u>Easy Guide to Compressing DVD-9 Into Compact DVD-5 Formats</u></a></li>
+<li><a href="https://discover-help.techidaily.com/free-high-definition-4k-360-video-downloads-mp4-3gp-and-flv-formats/"><u>Free High-Definition 4K, 360° Video Downloads: MP4, 3GP, and FLV Formats</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-videos-not-playing-on-redmi-note-12-proplus-5g-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix Videos Not Playing on Redmi Note 12 Pro+ 5G?</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/maximizing-performance-on-a-penny-discover-how-the-topmate-c302-pad-tackles-overheating/"><u>Maximizing Performance on a Penny? Discover How the TopMate C302 Pad Tackles Overheating!</u></a></li>
+<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-samsung-galaxy-a24-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Samsung Galaxy A24 ? Fix It Easily | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swift-finder-power-adopting-everywhereapp-techniques/"><u>Swift Finder Power: Adopting EverywhereApp Techniques</u></a></li>
+<li><a href="https://discover-help.techidaily.com/why-you-should-avoid-using-tube2gram-for-uploading-videos-from-youtube-to-instagram/"><u>Why You Should Avoid Using Tube2Gram for Uploading Videos From YouTube to Instagram</u></a></li>
+</ul></div>
 
