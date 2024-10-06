@@ -1,7 +1,7 @@
 ---
 title: "IMovie Troubleshooting Guide: Restoring Audio on Your MP4 Video Imports"
-date: 2024-09-20T22:03:50.113Z
-updated: 2024-09-25T19:53:00.572Z
+date: 2024-10-04T01:05:51.533Z
+updated: 2024-10-05T19:03:59.535Z
 categories:
   - macxdvd
 thumbnail: https://thmb.techidaily.com/0ddbdaf176d9d1aa91166240cfd03bf943a91fbfa4f363395d9aad8fd48b5e85.jpg
@@ -34,18 +34,24 @@ _"My iMac can read the mp4 file and play back sound and video fine with VLC app.
 
 Why iMovie can't play audio in your MP4 file? This could be caused by improper audio settings, incompatible audio codec, file corruption, or iMovie preferences corruption. Just follow our troubleshooting steps to resolve this problem.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## \[Quick Fix\] Convert MP4 to iMovie Incompatible Video Audio Formats 
 
 Free download [MacX Video Converter Pro](https://tools.techidaily.com/macxdvd/products/). It accepts all MP4 files, provides optimized iMovie profiles, and converts videos quickly without degrading quality. With this tool, you can convert MP4 to iMovie within 3 simple steps only.
 
 [Download for Mac](https://tools.techidaily.com/macxdvd/products/) [Download for PC](https://tools.techidaily.com/macxdvd/products/) 
+
+<!-- affiliate ads begin -->
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Table of Contents
 
@@ -59,13 +65,6 @@ Free download [MacX Video Converter Pro](https://tools.techidaily.com/macxdvd/pr
 ## Step 1\. Check if MP4 File is Corrupted or Not
 
 Before any further, open your MP4 file outside of iMovie using a media player like QuickTime and VLC and make sure the MP4 video file can play fine with sound. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Step 2\. Check the Audio Codec in Your MP4 File
 
@@ -87,6 +86,13 @@ Hit the blue RUN button to begin converting MP4 for iMovie. It will utilize GPU 
 
 ![Convert MP4 to iMovie](https://www.macxdvd.com/mac-dvd-video-converter-how-to/article-image/wz-mvcp-010301.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Once done, re-import the new MP4 file into iMovie and see if you can hear the audio now. If iMovie still can't play the audio, you need to check the audio settings.
 
 ## Step 3\. Check Audio Settings in iMovie
@@ -100,13 +106,6 @@ And, you can check if the file shows an audio waveform when the "Show Waveforms"
 ## Step 4\. Check if iMovie Preferences Corrupts
 
 Corrupted iMovie preferences can cause iMovie not playing audio issue. In this case, you can reboot your computer, launch iMovie while holding down the Option and Command keys, and then select to delete preferences in the box that appears. Then, iMovie will open in a new library. Now, reopen your old library to get back to your projects and see if you can import MP4 to iMovie with audio. 
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
-  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Step 5\. Try a Different Importing Method
 
@@ -126,13 +125,6 @@ Related Articles
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/pic5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [iMovie Won't Import MP4? Convert MP4 to iMovie Codecs](https://tools.techidaily.com/macxdvd/products/) 
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/pic4.jpg)
@@ -146,10 +138,10 @@ Related Articles
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/pic2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [How to Convert and Import MKV to iMovie for Editing on Mac](https://tools.techidaily.com/macxdvd/products/) 
@@ -157,19 +149,33 @@ Related Articles
 ![Digiarty Software](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../icon/logo.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Digiarty Software, Inc. (MacXDVD) is a leader in delivering stable multimedia software applications for worldwide users since its establishment in 2006.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Hot Products
 
 * [MacX DVD Ripper Pro](https://tools.techidaily.com/macxdvd/products/)
 * [MacX Video Converter Pro](https://tools.techidaily.com/macxdvd/products/)
 * [MacX MediaTrans](https://tools.techidaily.com/macxdvd/products/)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Tips and Tricks
 
@@ -180,10 +186,10 @@ Digiarty Software, Inc. (MacXDVD) is a leader in delivering stable multimedia so
 * [Hot Topics >>](https://tools.techidaily.com/macxdvd/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Company
@@ -216,17 +222,22 @@ Apple, the Apple logo, Mac, iPhone, iPad, iPod and iTunes are trademarks of Appl
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-exposing-effective-promotions/"><u>[Updated] In 2024, Exposing Effective Promotions</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-viral-visionaries-top-meme-creators-on-social-media/"><u>[Updated] In 2024, Viral Visionaries Top Meme Creators on Social Media</u></a></li>
-<li><a href="https://discover-help.techidaily.com/comparacion-detallada-y-revision-de-winx-dvd-ripper-frente-a-handbrake-cual-es-el-mejor-descargador-libre-para-dvd/"><u>Comparación Detallada Y Revisión De WinX DVD Ripper Frente a HandBrake: ¿Cuál Es El Mejor Descargador Libre Para DVD?</u></a></li>
-<li><a href="https://discover-help.techidaily.com/convert-mov-files-to-mp4-free-cross-platform-guide-for-mac-and-windows/"><u>Convert MOV Files to MP4 Free: Cross-Platform Guide for Mac & Windows</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/downloadable-pci-device-driver-software-compatible-with-windows-11-10-8-and-7/"><u>Downloadable PCI Device Driver Software Compatible with Windows 11, 10, 8 & 7</u></a></li>
-<li><a href="https://discover-help.techidaily.com/1725289919474-dvd/"><u>DVD書き込みで発生する音ズれ対策と修正手順</u></a></li>
-<li><a href="https://discover-help.techidaily.com/free-collection-kid-friendly-walt-disney-films-and-complimentary-dvd-ripping-tools/"><u>Free Collection: Kid-Friendly Walt Disney Films & Complimentary DVD Ripping Tools</u></a></li>
-<li><a href="https://discover-help.techidaily.com/guia-efectiva-para-eliminar-subtitulos-de-archivos-video-mp4-mkv-avi/"><u>Guía Efectiva Para Eliminar Subtítulos De Archivos Video (MP4, MKV, AVI)</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/quickest-sharp-window-photo-enhancer/"><u>Quickest Sharp Window Photo Enhancer</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/strategy-revealed-a-box-opening-narrative/"><u>Strategy Revealed A Box-Opening Narrative</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/top-5-rapid-solutions-reviving-your-oculus-rift-s-headset-microphone/"><u>Top 5 Rapid Solutions: Reviving Your Oculus Rift S Headset Microphone</u></a></li>
-<li><a href="https://win11.techidaily.com/understanding-and-remedying-windows-11-app-error-afc/"><u>Understanding and Remedying Windows 11 APP Error AFC</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-the-ultimate-guide-to-navigating-stardews-ginger-island/"><u>[New] 2024 Approved The Ultimate Guide to Navigating Stardew’s Ginger Island</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-maximize-your-laptops-dvd-potential-easily-for-2024/"><u>[New] Maximize Your Laptop's DVD Potential Easily for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-ultimate-toolkit-for-precision-mobile-screen-recording-using-mobizen/"><u>[Updated] 2024 Approved Ultimate Toolkit for Precision Mobile Screen Recording Using Mobizen</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-creative-overhaul-with-tiktok-effects-for-2024/"><u>[Updated] Creative Overhaul with TikTok Effects for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-universal-techniques-for-streaming-to-disk-from-youtube-for-2024/"><u>[Updated] Universal Techniques for Streaming to Disk From YouTube for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-taking-solo-shots-from-videos-in-windows-10-photos-interface/"><u>2024 Approved Taking Solo Shots From Videos in Windows 10 Photos Interface</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/complete-step-by-step-guide-downloading-hp-printer-drivers-for-windows-11-users/"><u>Complete Step-by-Step Guide: Downloading HP Printer Drivers for Windows 11 Users</u></a></li>
+<li><a href="https://discover-help.techidaily.com/die-effektivsten-kostenlosen-video-kompressionstools-fur-die-online-verwendung-keine-watermarks-garantiert/"><u>Die Effektivsten Kostenlosen Video-Kompressionstools Für Die Online-Verwendung - Keine WaterMarks Garantiert!</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/engaging-audiences-through-vimeo-shares-for-2024/"><u>Engaging Audiences Through Vimeo Shares for 2024</u></a></li>
+<li><a href="https://discover-help.techidaily.com/how-effective-is-handbrake-at-decrypting-and-converting-dvd-content-across-macos-and-windows-platforms/"><u>How Effective Is Handbrake at Decrypting and Converting DVD Content Across macOS & Windows Platforms?</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-leveraging-googles-board-tools-for-smooth-online-engagement-on-all-platforms/"><u>In 2024, Leveraging Google's Board Tools for Smooth Online Engagement on All Platforms</u></a></li>
+<li><a href="https://discover-help.techidaily.com/is-your-ps4-capable-of-streaming-hevc-videos-understanding-hevc-format-compatibility-with-sonys-gaming-console/"><u>Is Your PS4 Capable of Streaming HEVC Videos? Understanding HEVC Format Compatibility with Sony's Gaming Console</u></a></li>
+<li><a href="https://discover-help.techidaily.com/top-recommended-video-formats-to-optimize-your-youtube-content/"><u>Top Recommended Video Formats to Optimize Your YouTube Content</u></a></li>
+<li><a href="https://discover-help.techidaily.com/top-ranking-free-mp4-converter-tools-and-downloads-effortless-video-format-transformation/"><u>Top-Ranking Free MP4 Converter Tools & Downloads – Effortless Video Format Transformation</u></a></li>
+<li><a href="https://discover-help.techidaily.com/ultimate-dvd-converter-quickwinx-platinum-hd-dvd-to-mp4-conversion-in-just-5-mins/"><u>Ultimate DVD Converter: QuickWinX Platinum - HD DVD-to-MP4 Conversion in Just 5 Mins!</u></a></li>
+<li><a href="https://discover-help.techidaily.com/1725289844497-winx-dvd-ripper-platinum/"><u>WinX DVD Ripper Platinum - 在線客服解答最常見的問題</u></a></li>
+<li><a href="https://discover-help.techidaily.com/1725289967743-winxvideo-ai/"><u>WinxVideo AI – 影片及圖片改良工具：提高、穩定化、轉換、編輯以及錄像服務</u></a></li>
 </ul></div>
 

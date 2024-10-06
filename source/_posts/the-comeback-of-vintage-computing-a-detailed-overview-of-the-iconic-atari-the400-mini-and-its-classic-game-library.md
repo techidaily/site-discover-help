@@ -1,7 +1,7 @@
 ---
 title: "The Comeback of Vintage Computing: A Detailed Overview of the Iconic Atari THE400 Mini and Its Classic Game Library"
-date: 2024-09-18T21:59:01.304Z
-updated: 2024-09-25T17:58:37.423Z
+date: 2024-09-30T16:08:52.161Z
+updated: 2024-10-06T00:29:45.940Z
 tags:
   - product-reviews
 categories:
@@ -76,10 +76,10 @@ THE400 Mini and THECXSTICK in front of a television.
 ![Showing Package Contents of cables and accessories of THE400 Mini](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/03/the400-mini-package-contents.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Bill Loguidice / How-To Geek
@@ -89,19 +89,6 @@ Everything that comes in the THE400 Mini box.
  With so many different case designs to choose from and good arguments for each, mimicking the look of the Atari 400 in mini form is somewhat controversial. With that said, the 400 was meant as the entry-level model versus the more professional 800, complete with an initial 8K of memory and an infamous membrane keyboard, targeted more to games and light computing than its more expensive sibling.
 
 ![THE400 Mini sitting on top of an original Atari 800 computer](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/03/the400-mini-sitting-on-top-of-an-original-atari-800-computer.jpg) 
-
-<!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Bill Loguidice / How-To Geek
 
@@ -123,13 +110,6 @@ The rear of THE400 Mini.
 
 ![THE400 Mini Joystick](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/03/the400-mini-joystick.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Bill Loguidice / How-To Geek
 
 THECXSTICK.
@@ -146,9 +126,23 @@ Close
 
  THE400 Mini supports FAT32-formatted USB sticks, although I did have to try a few different brands to find one that was properly recognized. When inserting a compatible blank USB stick, a version of the [BASIC programming language](https://atariwiki.org/wiki/Wiki.jsp?page=Atari%20BASIC) is installed. Similarly, THE400 Mini didn't like my wireless Logitech K400r keyboard but had no issues with a wired [Razer BlackWidow V3 Pro](https://www.amazon.com/Razer-BlackWidow-Mechanical-Gaming-Keyboard/dp/B08FQPLCNC/?tag=hotoge-20&ascsubtag=UUhtgUeUpU2002451&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fatari-the400-mini-review%2F&asc%5Fcampaign=Authority). Not every key on a modern keyboard maps correctly to the Atari 8-bit keyboard layout, but using the legend on the Mini can provide some clues.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Games and Gameplay: Past Blasts** 
 
 ![THE400 Mini Front with USB-A ports](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/03/the400-mini-front.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Bill Loguidice / How-To Geek
 
@@ -178,13 +172,6 @@ Close
 
  Finally, if you don't like the included THECXSTICK or just want more than one controller and don't want to use another THECXSTICK, THEJOYSTICK, or THEGAMEPAD, modern Microsoft Xbox, Sony PlayStation, and Nintendo Switch controllers can be used. For instance, I was able to use an [8BitDo USB Wireless Adapter 2](https://www.amazon.com/8Bitdo-Wireless-Compatible-Controller-Bluetooth/dp/B09M8CVMYF?tag=hotoge-20&ascsubtag=UUhtgUeUpU2002451&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fatari-the400-mini-review%2F&asc%5Fcampaign=Authority) with an Xbox One controller for a nice wireless option.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Should You Buy the Atari THE400 Mini?** 
 
  Retro Games Ltd. knows what they're doing when it comes to designing mass-market nostalgia plays. [THE400 Mini](https://www.amazon.com/THE400-Mini-Not-Machine-Specific/dp/B0CS3VD9TJ/?tag=hotoge-20&ascsubtag=UUhtgUeUpU2002451&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fatari-the400-mini-review%2F&asc%5Fcampaign=Authority) from Atari does a great job of making a past platform accessible to those interested in exploring what one of the most popular computer gaming platforms of all time was all about. It gives a great taste of what some of the best 1970s and 1980s gaming was like and shows how deep Atari's back catalog of systems really is.
@@ -192,6 +179,13 @@ Close
  Of course, a product like THE400 Mini is not for everyone. The 25 games included are proven titles that, despite generally looking and sounding good for their time, are not anywhere near modern standards. Control and playability are also from a bygone era, requiring some patience at times, particularly for the less action-oriented titles. And trying to do more than just play the included games can be something of a hassle. Nevertheless, for those willing to invest some time beyond just the built-in games, THE400 Mini at $120 gives a good taste of what gaming and computing were like way back when.
 
 ![Atari - The400 Mini and Joystick](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/atari-the400-mini-and-joystick.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #####  THE400 Mini
 
@@ -218,22 +212,24 @@ THE400 Mini is a plug and play retro game console based on the popular Atari 8-b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-how-to-record-google-meet-for-2024/"><u>[New] How to Record Google Meet for 2024</u></a></li>
-<li><a href="https://solve-latest.techidaily.com/1-enhanced-conversion-rates-with-customized-retargeting-powered-by-cookiebot/"><u>1. Enhanced Conversion Rates with Customized Retargeting: Powered by Cookiebot</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-poco-c65-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Poco C65 Current Location of a Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/5-quick-methods-to-bypass-zte-frp-by-drfone-android/"><u>5 Quick Methods to Bypass ZTE FRP</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/detailed-review-of-doctorsim-unlock-service-for-apple-iphone-xs-max-drfone-by-drfone-ios/"><u>Detailed Review of doctorSIM Unlock Service For Apple iPhone XS Max | Dr.fone</u></a></li>
-<li><a href="https://discover-help.techidaily.com/effortless-editing-with-imovie-how-to-import-and-transform-wmv-videos-on-a-mac-computer/"><u>Effortless Editing with iMovie: How to Import and Transform WMV Videos on a Mac Computer</u></a></li>
-<li><a href="https://discover-help.techidaily.com/full-hd-mp4-and-mp3-collection-of-the-2021-british-phonographic-industrys-annual-music-gala-videos-and-songs/"><u>Full HD MP4 and MP3 Collection of the 2021 British Phonographic Industry's Annual Music Gala Videos and Songs</u></a></li>
-<li><a href="https://discover-help.techidaily.com/imovie-troubleshooting-guide-restoring-audio-on-your-mp4-video-imports/"><u>IMovie Troubleshooting Guide: Restoring Audio on Your MP4 Video Imports</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-crafting-exceptional-sounds-spotlight-on-the-best-mixers-for-podcasters/"><u>In 2024, Crafting Exceptional Sounds Spotlight on the Best Mixers for Podcasters</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-tecno-camon-20-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Tecno Camon 20 Is Unlocked</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-pioneering-play-integrating-vr-in-recreation/"><u>In 2024, Pioneering Play Integrating VR in Recreation</u></a></li>
-<li><a href="https://discover-help.techidaily.com/quick-guide-convert-and-download-youtube-media-as-mp4mp3-using-speedy-yt-converter/"><u>Quick Guide: Convert & Download YouTube Media as MP4/MP3 Using Speedy YT Converter</u></a></li>
-<li><a href="https://discover-help.techidaily.com/ripperpro-for-macos-x-convert-dvds-into-itunes-compatible-mp4-files-and-protected-dvd-ripping/"><u>RipperPro for MacOS X – Convert DVDs Into iTunes-Compatible MP4 Files & Protected DVD Ripping</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/save-big-with-the-latest-oneplus-holiday-season-bargains/"><u>Save Big with the Latest OnePlus Holiday Season Bargains!</u></a></li>
-<li><a href="https://discover-help.techidaily.com/troubleshooting-silent-videos-in-vlc-player-quick-fixes-for-lost-audio/"><u>Troubleshooting Silent Videos in VLC Player - Quick Fixes for Lost Audio</u></a></li>
-<li><a href="https://discover-help.techidaily.com/ultimate-tutorial-share-screen-and-stream-media-from-apple-devices-to-tv-via-google-chromecast/"><u>Ultimate Tutorial: Share Screen & Stream Media From Apple Devices to TV via Google Chromecast</u></a></li>
-<li><a href="https://discover-help.techidaily.com/unlocking-global-cinema-three-techniques-to-enjoy-any-regions-dvd-without-limits/"><u>Unlocking Global Cinema: Three Techniques to Enjoy Any Region's DVD Without Limits</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-step-by-step-record-hulu-everywhere-windowsmaciosandroid/"><u>[New] 2024 Approved Step-by-Step Record Hulu Everywhere - Windows/Mac/iOS/Android</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/est-youtube-names-generators-plus-how-to-brainstorm/"><u>[New] Best YouTube Names Generators [+ How to Brainstorm]</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-smooth-file-migration-to-computer-5-proven-techniques/"><u>[New] In 2024, Smooth File Migration to Computer – 5 Proven Techniques</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-lore-masters-collective-essential-eight-for-2024/"><u>[New] Lore Masters Collective - Essential Eight for 2024</u></a></li>
+<li><a href="https://discover-help.techidaily.com/comparacion-detallada-y-revision-de-winx-dvd-ripper-frente-a-handbrake-cual-es-el-mejor-descargador-libre-para-dvd/"><u>Comparación Detallada Y Revisión De WinX DVD Ripper Frente a HandBrake: ¿Cuál Es El Mejor Descargador Libre Para DVD?</u></a></li>
+<li><a href="https://discover-help.techidaily.com/convert-mov-files-to-mp4-free-cross-platform-guide-for-mac-and-windows/"><u>Convert MOV Files to MP4 Free: Cross-Platform Guide for Mac & Windows</u></a></li>
+<li><a href="https://discover-help.techidaily.com/discover-the-leading-android-apps-that-outshine-vlc-media-player-for-tablet-and-smartphone-use/"><u>Discover the Leading Android Apps That Outshine VLC Media Player for Tablet & Smartphone Use</u></a></li>
+<li><a href="https://discover-help.techidaily.com/1725289919474-dvd/"><u>DVD書き込みで発生する音ズれ対策と修正手順</u></a></li>
+<li><a href="https://discover-help.techidaily.com/free-collection-kid-friendly-walt-disney-films-and-complimentary-dvd-ripping-tools/"><u>Free Collection: Kid-Friendly Walt Disney Films & Complimentary DVD Ripping Tools</u></a></li>
+<li><a href="https://discover-help.techidaily.com/guia-efectiva-para-eliminar-subtitulos-de-archivos-video-mp4-mkv-avi/"><u>Guía Efectiva Para Eliminar Subtítulos De Archivos Video (MP4, MKV, AVI)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-avchd-mts-files-on-xiaomi-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to play AVCHD MTS files on Xiaomi ?</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/how-to-selecting-the-ideal-television/"><u>How-To: Selecting the Ideal Television</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-tecno-camon-20-premier-5g-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Tecno Camon 20 Premier 5G</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-apple-id-verification-code-not-working-from-iphone-11-by-drfone-ios/"><u>In 2024, How To Fix Apple ID Verification Code Not Working From iPhone 11</u></a></li>
+<li><a href="https://discover-help.techidaily.com/optimiza-tus-videos-para-la-excelencia-logra-la-maxima-calidad-gracias-a-winxvideo-ai/"><u>Optimiza Tus Videos Para La Excelencia: Logra La Máxima Calidad Gracias a Winxvideo AI</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-non-functional-keys-on-windows-10-and-11-step-by-step-guide/"><u>Resolving Non-Functional Keys on Windows 10 and 11: Step-by-Step Guide</u></a></li>
+<li><a href="https://discover-help.techidaily.com/unbelievable-movie-plotlines-accurately-foretelling-the-coronavirus-crisis/"><u>Unbelievable! Movie Plotlines Accurately Foretelling the Coronavirus Crisis</u></a></li>
+<li><a href="https://discover-help.techidaily.com/understanding-the-distinctions-a-comparison-of-dvd-r-and-dvdplusr-formats/"><u>Understanding the Distinctions: A Comparison of DVD-R & DVD+R Formats</u></a></li>
+<li><a href="https://apple-account.techidaily.com/why-apple-account-disabled-on-your-apple-iphone-15-pro-max-how-to-fix-by-drfone-ios/"><u>Why Apple Account Disabled On your Apple iPhone 15 Pro Max? How to Fix</u></a></li>
 </ul></div>
 
