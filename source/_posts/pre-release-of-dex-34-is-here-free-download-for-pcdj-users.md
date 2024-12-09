@@ -1,7 +1,7 @@
 ---
 title: Pre-Release of DEX 3.4 Is Here – Free Download for PCDJ Users!
-date: 2024-11-27T11:38:41.829Z
-updated: 2024-12-01T07:45:05.635Z
+date: 2024-12-07T01:06:51.202Z
+updated: 2024-12-08T21:36:33.772Z
 tags:
   - product
 categories:
@@ -57,7 +57,7 @@ _**NOTE: This DEX 3.4 DJ Software Update Will Overwrite Your Existing DEX 3 Vers
 \*If you have any problems with 3.4, you can re-install DEX 3.3.3 from the DEX 3 support page [HERE](https://tools.techidaily.com/pcdj/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -79,21 +79,15 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2015/06/dex34prerelease-coverimage
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-chromatic-soundscapes-selecting-the-right-tune/"><u>[New] Chromatic Soundscapes Selecting the Right Tune</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-elevating-engagement-crafting-high-roi-animated-campaigns-on-facebook/"><u>[New] In 2024, Elevating Engagement Crafting High-ROI Animated Campaigns on Facebook</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-optimal-tech-finest-mac-software-for-videography/"><u>[New] Optimal Tech Finest Mac Software for Videography</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-best-3-ways-to-record-live-sports-streaming/"><u>2024 Approved Best 3 Ways to Record Live Sports Streaming</u></a></li>
-<li><a href="https://discover-help.techidaily.com/activating-app-passwords-for-sending-email-alerts-with-aomei-backupper/"><u>Activating App Passwords for Sending Email Alerts with AOMEI Backupper</u></a></li>
-<li><a href="https://discover-help.techidaily.com/comprehensive-guide-activating-and-personalizing-a-freshly-purchased-hp-computer-running-windows-11/"><u>Comprehensive Guide: Activating and Personalizing a Freshly Purchased HP Computer Running Windows 11</u></a></li>
-<li><a href="https://discover-help.techidaily.com/guia-paso-a-paso-para-realizar-copias-de-seguridad-incrementales-con-robocopy/"><u>Guía Paso a Paso Para Realizar Copias De Seguridad Incrementales Con Robocopy</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-my-oppo-a1x-5g-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Oppo A1x 5G Location Is Wrong | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-closer-look-easy-methods-to-zoom-in-minecraft/"><u>In 2024, Closer Look Easy Methods to Zoom in Minecraft</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-drone-giants-competing-dji-mavic-meets-karma/"><u>In 2024, Drone Giants Competing DJi Mavic Meets Karma</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-vivo-v27e-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Vivo V27e Find My Friends No Location Found? | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-navigating-vsco-for-visual-impact-in-media/"><u>In 2024, Navigating VSCO for Visual Impact in Media</u></a></li>
-<li><a href="https://discover-help.techidaily.com/step-by-step-instructions-for-protected-boot-switching-your-hard-drive-to-samsung-solid-state-storage/"><u>Step-by-Step Instructions for Protected Boot: Switching Your Hard Drive to Samsung Solid State Storage</u></a></li>
-<li><a href="https://discover-help.techidaily.com/step-by-step-tutorial-for-retrieving-lost-data-after-drive-reformat-mishaps/"><u>Step-by-Step Tutorial for Retrieving Lost Data After Drive Reformat Mishaps</u></a></li>
-<li><a href="https://discover-help.techidaily.com/transcend-ssd-cloning-error-system-failure-in-scope-mode/"><u>Transcend SSD Cloning Error - System Failure in 'Scope' Mode</u></a></li>
-<li><a href="https://discover-help.techidaily.com/western-digital-top-migration-software-solutions-for-ssds/"><u>Western Digital: Top Migration Software Solutions for SSDs</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-digital-content-contenders-compare-and-contrast-vimeo-youtube-plus-dailymotion/"><u>[New] 2024 Approved Digital Content Contenders Compare & Contrast Vimeo, YouTube + Dailymotion</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-capturing-the-echoes-of-yesteryears-scanning-and-storing-vintage-prints/"><u>2024 Approved Capturing the Echoes of Yesteryears Scanning and Storing Vintage Prints</u></a></li>
+<li><a href="https://discover-help.techidaily.com/discover-easy-steps-to-determine-filefolder-size-on-windows-insights-from-yl-computing/"><u>Discover Easy Steps to Determine File/Folder Size on Windows - Insights From YL Computing</u></a></li>
+<li><a href="https://discover-help.techidaily.com/high-resolution-downloads-and-wallpaper/"><u>High-Resolution, Downloads, and Wallpaper.</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlink-apple-id-from-apple-iphone-15-by-drfone-ios/"><u>In 2024, How To Unlink Apple ID From Apple iPhone 15</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/iphone-shutterbug-secrets-perfecting-reflections-in-water/"><u>IPhone Shutterbug Secrets Perfecting Reflections in Water</u></a></li>
+<li><a href="https://discover-help.techidaily.com/navigating-the-precious-metal-market-confronting-global-demand-vs-domestic-forecasts-with-yl-computing/"><u>Navigating the Precious Metal Market: Confronting Global Demand Vs. Domestic Forecasts with YL Computing</u></a></li>
+<li><a href="https://discover-help.techidaily.com/transforming-your-desktop-aesthetics-with-ease-by-yl-software/"><u>Transforming Your Desktop Aesthetics with Ease by YL Software</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-the-new-lineup-apple-introduces-m4-ipad-pro-and-13-ipad-air-at-latest-event-plus-the-improved-apple-pencil-pro/"><u>Unveiling the New Lineup: Apple Introduces M4 iPad Pro and 13 iPad Air at Latest Event – Plus The Improved Apple Pencil Pro!</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/vision-capture-expert-insights-into-video-tech-for-2024/"><u>Vision Capture Expert Insights Into Video Tech for 2024</u></a></li>
 </ul></div>
 

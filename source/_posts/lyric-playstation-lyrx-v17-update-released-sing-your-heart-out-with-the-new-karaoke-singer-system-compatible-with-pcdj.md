@@ -1,7 +1,7 @@
 ---
 title: Lyric PlayStation LYRX v1.7 Update Released! Sing Your Heart Out with the New Karaoke Singer System | Compatible with PCDJ
-date: 2024-11-27T23:27:55.976Z
-updated: 2024-11-30T23:39:15.419Z
+date: 2024-12-03T12:19:17.027Z
+updated: 2024-12-08T16:20:01.917Z
 tags:
   - product
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/20ab7f66584fa785dda09306687fe5514b5df7248
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Download the official public release of LYRX 1.7 – now with KRS (Karaoke Singer Request) System!
@@ -27,7 +27,7 @@ thumbnail: https://thmb.techidaily.com/20ab7f66584fa785dda09306687fe5514b5df7248
 [![LYRX with KSR and Party Tyme](https://i1.wp.com/pcdj.com/wp-content/uploads/2021/05/LYRX.png?fit=300%2C189&ssl=1 "LYRX")](https://i1.wp.com/pcdj.com/wp-content/uploads/2021/05/LYRX.png?fit=1030%2C650&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 LYRX 1.7 is ready for download and as always, it’s a free update for LYRX KJs. Learn more and install the update below.
@@ -41,7 +41,7 @@ Also included are a number of performance improvement, optimizations for macOS C
 After extensive public testing on the [PCDJ User Group](http://www.facebook.com/groups/pcdjusergroup/), LYRX 1.7 is ready for live performance. We suggest LYRX customers update to 1.7 today!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What’s New, Changed, and Fixed in LYRX 1.7
@@ -58,7 +58,7 @@ After extensive public testing on the [PCDJ User Group](http://www.facebook.com/
 _Have questions about the latest 1.7 version of our LYRX **Karaoke Software** or the new **KSR Karaoke Singer Request system**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -80,16 +80,19 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2021/06/ksr-back-copy.jpg?fit=1200
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-mastering-video-capture-on-your-laptop-with-screenrec/"><u>[New] 2024 Approved Mastering Video Capture on Your Laptop with ScreenRec</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-sculpt-your-scenes-with-fading-music-effects-in-adobe-premiere-pro/"><u>[New] Sculpt Your Scenes with Fading Music Effects in Adobe Premiere Pro</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-expert-tips-for-srt-enhanced-mp4-files/"><u>[Updated] 2024 Approved Expert Tips for SRT-Enhanced MP4 Files</u></a></li>
-<li><a href="https://discover-help.techidaily.com/enhance-your-broadcasts-with-manycam-the-go-to-live-video-editor-and-virtual-cam-solution/"><u>Enhance Your Broadcasts with ManyCam - The Go-To Live Video Editor and Virtual Cam Solution</u></a></li>
-<li><a href="https://win-able.techidaily.com/experience-the-reimagined-bioshock-2-remaster-with-improved-graphics/"><u>Experience the Reimagined BioShock 2 Remaster with Improved Graphics</u></a></li>
-<li><a href="https://discover-help.techidaily.com/live-streaming-mastery-with-manycam-the-ultimate-virtual-webcam-solution/"><u>Live Streaming Mastery with ManyCam: The Ultimate Virtual Webcam Solution</u></a></li>
-<li><a href="https://discover-help.techidaily.com/live-streaming-mastery-with-manycam-top-tier-video-editing-and-virtual-camera-solutions/"><u>Live Streaming Mastery with ManyCam: Top-Tier Video Editing and Virtual Camera Solutions</u></a></li>
-<li><a href="https://discover-help.techidaily.com/live-streaming-mastery-with-manycam-ultimate-virtual-camera-solution/"><u>Live Streaming Mastery with ManyCam: Ultimate Virtual Camera Solution</u></a></li>
-<li><a href="https://discover-help.techidaily.com/live-streaming-mastery-discover-how-manycam-transforms-your-videography-with-a-virtual-camera/"><u>Live Streaming Mastery: Discover How ManyCam Transforms Your Videography with a Virtual Camera</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/microsofts-gpt-influence-how-to-attribute-references-properly-in-scholarship/"><u>Microsoft's GPT Influence: How to Attribute References Properly in Scholarship</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/overcoming-errors-in-the-sky-ensuring-seamless-installation-for-avatar-pandoras-legacy/"><u>Overcoming Errors in the Sky: Ensuring Seamless Installation for Avatar - Pandora's Legacy</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-ace-crews-the-quintessential-list-of-photo-vids-plus-music-maestros/"><u>[New] 2024 Approved Ace Crews The Quintessential List of Photo Vids + Music Maestros</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-navigate-beyond-conventional-webcam-uses-for-2024/"><u>[Updated] Navigate Beyond Conventional Webcam Uses for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/essential-hp-officejet-5255-software-update-free-download-and-installation-instructions/"><u>Essential HP OfficeJet 5255 Software Update - Free Download and Installation Instructions</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-samsung-galaxy-a05-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Samsung Galaxy A05 Devices | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-perform-a-zoom-software-update-on-pcs-and-macs/"><u>How To Perform A Zoom Software Update On PCs and Macs</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-mastering-the-art-top-5-hand-to-hand-combat-games/"><u>In 2024, Mastering the Art Top 5 Hand-to-Hand Combat Games</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-in-2024-10-free-football-streaming-sites-to-bookmark/"><u>New In 2024, 10 Free Football Streaming Sites To Bookmark</u></a></li>
+<li><a href="https://discover-help.techidaily.com/retro-8-bit-holiday-scenes-festive-image-collections-by-yl-computing-your-premier-source-for-nostalgic-wallpaper/"><u>Retro 8-Bit Holiday Scenes: Festive Image Collections by YL Computing - Your Premier Source for Nostalgic Wallpaper</u></a></li>
+<li><a href="https://discover-help.techidaily.com/revolutionizing-tech-the-digital-nigeria-conference-2023-hosted-by-young-leaders-featuring-innovations-in-computing-and-software-with-yls-expertise/"><u>Revolutionizing Tech: The Digital Nigeria Conference 2023 Hosted by Young Leaders, Featuring Innovations in Computing & Software with YL's Expertise</u></a></li>
+<li><a href="https://discover-help.techidaily.com/step-by-step-guide-activatingdeactivating-your-pcs-firewall-via-control-panel-insights-from-yl-computing/"><u>Step-by-Step Guide: Activating/Deactivating Your PC's Firewall via Control Panel - Insights From YL Computing</u></a></li>
+<li><a href="https://discover-help.techidaily.com/step-by-step-guide-fixing-common-issues-with-your-usb-hardware-expert-advice-from-yl-software-solutions/"><u>Step-by-Step Guide: Fixing Common Issues with Your USB Hardware - Expert Advice From YL Software Solutions</u></a></li>
+<li><a href="https://discover-help.techidaily.com/troubleshooting-tips-resolving-issues-with-non-responsive-touchscreens-insights-from-yl-computing/"><u>Troubleshooting Tips: Resolving Issues with Non-Responsive Touchscreens - Insights From YL Computing</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-from-itel-p55-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Itel P55 FRP Bypass</u></a></li>
+<li><a href="https://discover-help.techidaily.com/user-management-simplified-how-to-createdelete-accounts-on-yl-software-platform-by-yl-computing/"><u>User Management Simplified: How to Create/Delete Accounts on YL Software Platform by YL Computing</u></a></li>
 </ul></div>
 
