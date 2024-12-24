@@ -1,7 +1,7 @@
 ---
 title: Lyric PlayStation LYRX v1.7 Update Released! Sing Your Heart Out with the New Karaoke Singer System | Compatible with PCDJ
-date: 2024-12-11T17:04:10.077Z
-updated: 2024-12-15T16:26:52.062Z
+date: 2024-12-20T18:35:24.229Z
+updated: 2024-12-24T00:40:05.546Z
 tags:
   - product
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/20ab7f66584fa785dda09306687fe5514b5df7248
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Download the official public release of LYRX 1.7 – now with KRS (Karaoke Singer Request) System!
@@ -27,7 +27,7 @@ thumbnail: https://thmb.techidaily.com/20ab7f66584fa785dda09306687fe5514b5df7248
 [![LYRX with KSR and Party Tyme](https://i1.wp.com/pcdj.com/wp-content/uploads/2021/05/LYRX.png?fit=300%2C189&ssl=1 "LYRX")](https://i1.wp.com/pcdj.com/wp-content/uploads/2021/05/LYRX.png?fit=1030%2C650&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 LYRX 1.7 is ready for download and as always, it’s a free update for LYRX KJs. Learn more and install the update below.
@@ -41,7 +41,7 @@ Also included are a number of performance improvement, optimizations for macOS C
 After extensive public testing on the [PCDJ User Group](http://www.facebook.com/groups/pcdjusergroup/), LYRX 1.7 is ready for live performance. We suggest LYRX customers update to 1.7 today!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What’s New, Changed, and Fixed in LYRX 1.7
@@ -58,7 +58,7 @@ After extensive public testing on the [PCDJ User Group](http://www.facebook.com/
 _Have questions about the latest 1.7 version of our LYRX **Karaoke Software** or the new **KSR Karaoke Singer Request system**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -80,22 +80,18 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2021/06/ksr-back-copy.jpg?fit=1200
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-movavi-screen-recorder-11/"><u>[New] 2024 Approved Movavi Screen Recorder 11</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-expert-insights-for-effective-clips-blending/"><u>[New] In 2024, Expert Insights for Effective Clips Blending</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/before-you-buy-a-dvr-consider-this/"><u>Before You Buy a DVR, Consider This</u></a></li>
-<li><a href="https://win-blog.techidaily.com/cod-mw3-troubleshooting-guide-eliminating-the-unexpected-application-has-stopped-error-permanently/"><u>COD MW3 Troubleshooting Guide: Eliminating the Unexpected 'Application Has Stopped' Error Permanently</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/automated-youtube-content-feeds-for-2024/"><u>Curb Automated YouTube Content Feeds for 2024</u></a></li>
-<li><a href="https://discover-help.techidaily.com/data-rescue-tips-what-you-must-know-before-attempting-to-restore-your-files-with-yl-software-solutions/"><u>Data Rescue Tips: What You Must Know Before Attempting to Restore Your Files with YL Software Solutions</u></a></li>
-<li><a href="https://discover-help.techidaily.com/easy-steps-to-remove-paper-jams-from-your-printer-tips-by-yl-computing/"><u>Easy Steps to Remove Paper Jams From Your Printer - Tips by YL Computing</u></a></li>
-<li><a href="https://discover-help.techidaily.com/from-revolutionary-leader-to-supreme-ruler-understanding-mao-zedongs-ascendancy-in-chinese-history-with-yl-software-insights/"><u>From Revolutionary Leader to Supreme Ruler: Understanding Mao Zedong's Ascendancy in Chinese History with YL Software Insights</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-lenovo-thinkphone-drfone-by-drfone-virtual-android/"><u>How to Get and Use Pokemon Go Promo Codes On Lenovo ThinkPhone | Dr.fone</u></a></li>
-<li><a href="https://fox-search.techidaily.com/master-network-management-on-your-desktop-with-our-pro-tips-from-yl-software-experts/"><u>Master Network Management on Your Desktop with Our Pro Tips From YL Software Experts</u></a></li>
-<li><a href="https://discover-help.techidaily.com/restoring-functionality-resolving-issues-with-windows-programs-post-update-insights-by-yl-computing/"><u>Restoring Functionality: Resolving Issues with Windows Programs Post-Update - Insights by YL Computing</u></a></li>
-<li><a href="https://discover-help.techidaily.com/solving-low-3d-graphics-quality-optimizing-your-video-card-for-better-gaming-tips-from-yl-computing/"><u>Solving Low 3D Graphics Quality: Optimizing Your Video Card for Better Gaming - Tips From YL Computing</u></a></li>
-<li><a href="https://discover-help.techidaily.com/streamlining-system-efficiency-tips-for-decreasing-active-processes-on-your-computer-with-yl-solutions/"><u>Streamlining System Efficiency: Tips for Decreasing Active Processes on Your Computer with YL Solutions</u></a></li>
-<li><a href="https://discover-help.techidaily.com/troubleshooting-physical-computer-malfunctions-in-windows-operating-systems-tips-and-strategies-by-yl-software-professionals/"><u>Troubleshooting Physical Computer Malfunctions in Windows Operating Systems - Tips and Strategies by YL Software Professionals</u></a></li>
-<li><a href="https://driver-download.techidaily.com/update-your-intel-graphic-cards-driver-on-windows-11-easy-and-free-download/"><u>Update Your Intel Graphic Cards Driver on Windows 11 - Easy and Free Download</u></a></li>
-<li><a href="https://discover-help.techidaily.com/why-wont-my-computer-recognize-its-hard-drive-find-out-with-yl-computing-and-yl-software-solutions/"><u>Why Won't My Computer Recognize Its Hard Drive? Find Out with YL Computing & YL Software Solutions</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/youtube-shorts-music-things-you-need-to-know-for-2024/"><u>YouTube Shorts Music - Things You Need to Know for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-the-essential-manual-for-youtube-to-gif-conversion-online/"><u>[New] 2024 Approved The Essential Manual for YouTube-to-GIF Conversion Online</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-image-enhancement-101-text-addition-for-pc-and-mac-users/"><u>[Updated] Image Enhancement 101 Text Addition for PC and Mac Users</u></a></li>
+<li><a href="https://discover-help.techidaily.com/decoding-crypto-worth-a-deep-dive-into-the-elements-that-shape-digital-currency-value-with-yl-experts/"><u>Decoding Crypto Worth: A Deep Dive Into the Elements that Shape Digital Currency Value with YL Experts</u></a></li>
+<li><a href="https://discover-help.techidaily.com/easy-fix-for-gamers-and-designers-update-graphics-card-drivers-in-windows-10-with-yl-software-assistance/"><u>Easy Fix for Gamers & Designers: Update Graphics Card Drivers in Windows 10 with YL Software Assistance</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-solutions-for-when-your-steelseries-arctis-mic-stops-working/"><u>Effective Solutions for When Your SteelSeries Arctis Mic Stops Working</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/expert-overview-and-evaluation-of-netgears-nighthawk-ax8-revolutionizing-wireless-with-wi-fi-new-problem/"><u>Expert Overview and Evaluation of Netgear's Nighthawk AX8: Revolutionizing Wireless with Wi-Fi # New Problem</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-xiaomi-13t-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Xiaomi 13T Phone</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-8-plus-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 8 Plus without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://discover-help.techidaily.com/identifying-compatible-graphics-cards-for-your-computer-expert-guide-by-yl-computing/"><u>Identifying Compatible Graphics Cards for Your Computer - Expert Guide by YL Computing</u></a></li>
+<li><a href="https://discover-help.techidaily.com/identifying-the-reasons-behind-a-malfunctioning-audio-card-insights-by-yl-computing/"><u>Identifying the Reasons Behind a Malfunctioning Audio Card - Insights by YL Computing</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-full-picture-a-review-of-dji-inspire-2/"><u>In 2024, Full Picture A Review of DJI Inspire 2</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/maximize-iphone-storage-while-streaming-mkv-files-top-methods-unveiled/"><u>Maximize iPhone Storage While Streaming MKV Files: Top Methods Unveiled</u></a></li>
+<li><a href="https://discover-help.techidaily.com/retro-8-bit-holiday-scenes-festive-image-collections-by-yl-computing-your-premier-source-for-nostalgic-wallpaper/"><u>Retro 8-Bit Holiday Scenes: Festive Image Collections by YL Computing - Your Premier Source for Nostalgic Wallpaper</u></a></li>
 </ul></div>
 
