@@ -1,7 +1,7 @@
 ---
 title: Pre-Release of DEX 3.4 Is Here – Free Download for PCDJ Users!
-date: 2024-12-22T14:29:59.895Z
-updated: 2024-12-24T13:22:53.872Z
+date: 2024-12-29T02:21:51.073Z
+updated: 2024-12-29T18:26:12.418Z
 tags:
   - product
 categories:
@@ -57,7 +57,7 @@ _**NOTE: This DEX 3.4 DJ Software Update Will Overwrite Your Existing DEX 3 Vers
 \*If you have any problems with 3.4, you can re-install DEX 3.3.3 from the DEX 3 support page [HERE](https://tools.techidaily.com/pcdj/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -79,24 +79,24 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2015/06/dex34prerelease-coverimage
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-expert-audio-techniques-in-audacity-for-professionals/"><u>[New] 2024 Approved Expert Audio Techniques in Audacity for Professionals</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/eciphering-the-code-youtube-community-rules-explained/"><u>[New] Deciphering the Code YouTube Community Rules Explained</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-discovering-brilliance-in-the-dark-lightroom-hdr-essentials-for-2024/"><u>[Updated] Discovering Brilliance in the Dark Lightroom HDR Essentials for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-learn-to-fine-tune-youtube-videos-for-efficient-consumption/"><u>[Updated] Learn to Fine-Tune YouTube Videos for Efficient Consumption</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-flight-in-the-smallest-form-a-compreenasive-look-at-dji-sparks-miniature-wonders/"><u>2024 Approved Flight in the Smallest Form A Compreenasive Look at DJI Spark's Miniature Wonders</u></a></li>
-<li><a href="https://discover-help.techidaily.com/can-i-rely-on-windows-defender-for-comprehensive-malware-protection-a-closer-look-by-yl-software-yl-computing/"><u>Can I Rely on Windows Defender for Comprehensive Malware Protection? A Closer Look by YL Software | YL Computing</u></a></li>
-<li><a href="https://discover-help.techidaily.com/creating-irresistible-karaoke-playlists-strategies-to-keep-patrons-coming-back-for-more/"><u>Creating Irresistible Karaoke Playlists: Strategies to Keep Patrons Coming Back for More</u></a></li>
-<li><a href="https://discover-help.techidaily.com/effective-strategies-for-diagnosing-and-resolving-graphics-card-problems-guided-by-yl-tech-solutions/"><u>Effective Strategies for Diagnosing and Resolving Graphics Card Problems - Guided by YL Tech Solutions</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/how-to-pick-a-vr-gear-is-mobile-mobility-more-attractive-than-cable-connections-in-2024/"><u>How to Pick a VR Gear Is Mobile Mobility More Attractive Than Cable Connections, In 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-realme-narzo-60-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-honor-magic-5-lite-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share Location in Messenger On Honor Magic 5 Lite? | Dr.fone</u></a></li>
-<li><a href="https://discover-help.techidaily.com/mastering-windows-11-customization-techniques-with-tips-from-yl-softwares-leading-professionals/"><u>Mastering Windows 11 Customization Techniques with Tips From YL Software's Leading Professionals</u></a></li>
-<li><a href="https://discover-help.techidaily.com/step-by-step-guide-adjusting-clock-settings-and-date-on-your-pc-tips-by-yl-software/"><u>Step-by-Step Guide: Adjusting Clock Settings & Date on Your PC - Tips by YL Software</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/these-7-apps-are-integrating-gpt-4-but-how-do-they-work/"><u>These 7 Apps Are Integrating GPT-4, But How Do They Work?</u></a></li>
-<li><a href="https://blog-min.techidaily.com/top-rated-screen-recording-software-for-windows-10-8-y-7-capture-full-screen-or-selected-area/"><u>Top Rated Screen Recording Software for Windows 10, 8 Y 7 – Capture Full Screen or Selected Area</u></a></li>
-<li><a href="https://discover-help.techidaily.com/understanding-the-causes-of-blurry-scans-a-guide-by-yl-computing/"><u>Understanding the Causes of Blurry Scans: A Guide by YL Computing</u></a></li>
-<li><a href="https://discover-help.techidaily.com/understanding-windows-defenders-constraints-a-comprehensive-guide-by-yl-computing/"><u>Understanding Windows Defender's Constraints: A Comprehensive Guide by YL Computing</u></a></li>
-<li><a href="https://discover-help.techidaily.com/yl-computing-wallpaper-collection-stunning-cosmic-backgrounds-high-resolution-space-themes-and-vibrant-digital-art/"><u>YL Computing Wallpaper Collection: Stunning Cosmic Backgrounds, High-Resolution Space Themes & Vibrant Digital Art</u></a></li>
-<li><a href="https://discover-help.techidaily.com/yl-software-tutorial-how-to-easily-reinstall-programs-via-the-control-panel/"><u>YL Software Tutorial: How to Easily Reinstall Programs via the Control Panel</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-compelling-iphone-photo-and-video-applications-87x/"><u>[Updated] 2024 Approved Compelling iPhone Photo & Video Applications (8/7/X)</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-income-reconnaissance-unmasking-mr-beasts-fortune/"><u>2024 Approved Income Reconnaissance Unmasking Mr. Beast's Fortune</u></a></li>
+<li><a href="https://discover-help.techidaily.com/a-user-friendly-guide-adjusting-updates-via-the-control-panel-with-expert-tips-from-yl-software-experts/"><u>A User-Friendly Guide: Adjusting Updates via the Control Panel with Expert Tips From YL Software Experts</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comprehensive-guide-discovering-your-macos-version/"><u>Comprehensive Guide: Discovering Your MacOS Version</u></a></li>
+<li><a href="https://discover-help.techidaily.com/decoding-history-the-impactful-legacy-left-by-the-second-opium-war-expert-analysis-from-yl-computing-software-solutions/"><u>Decoding History: The Impactful Legacy Left by the Second Opium War - Expert Analysis From YL Computing Software Solutions</u></a></li>
+<li><a href="https://discover-help.techidaily.com/defending-your-system-a-guide-to-shielding-your-network-using-windows-control-panel-by-professionals-at-yl-software/"><u>Defending Your System: A Guide to Shielding Your Network Using Windows Control Panel by Professionals at YL Software</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-download-of-updated-drivers-for-your-tp-link-ub400-wireless-adapter/"><u>Easy Download of Updated Drivers for Your TP-Link UB400 Wireless Adapter</u></a></li>
+<li><a href="https://discover-help.techidaily.com/easy-guide-finding-files-on-your-pc-with-windows-tips-from-yl-computing/"><u>Easy Guide: Finding Files on Your PC with Windows - Tips From YL Computing</u></a></li>
+<li><a href="https://discover-help.techidaily.com/elegant-luxury-motorhome-visuals-high-quality-bgs-and-wallpapers-by-yl-computing/"><u>Elegant Luxury Motorhome Visuals: High-Quality BGs & Wallpapers by YL Computing</u></a></li>
+<li><a href="https://discover-help.techidaily.com/ensuring-data-integrity-a-comprehensive-tutorial-on-hard-drive-error-testing-using-yl-computings-tools/"><u>Ensuring Data Integrity: A Comprehensive Tutorial on Hard Drive Error Testing Using YL Computing's Tools</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expertise-in-format-switching-srt-to-advanced-standards-for-2024/"><u>Expertise in Format Switching SRT to Advanced Standards for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/farewell-to-itunes-apple-introduces-new-media-player-apps-on-windows-platform-detailed-coverage/"><u>Farewell to iTunes: Apple Introduces New Media Player Apps on Windows Platform - Detailed Coverage</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-a-step-by-step-manual-to-freeze-backgrounds-in-affinity-photo/"><u>In 2024, A Step-by-Step Manual to Freeze Backgrounds in Affinity Photo</u></a></li>
+<li><a href="https://discover-help.techidaily.com/optimize-your-system-essential-programs-to-delete-according-to-yl-software-experts/"><u>Optimize Your System: Essential Programs to Delete According to YL Software Experts</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/seamless-iphone-photo-and-video-transfers-guide/"><u>Seamless iPhone Photo & Video Transfers Guide</u></a></li>
+<li><a href="https://discover-help.techidaily.com/step-by-step-guide-replacing-damaged-parts-in-your-windows-pc-tips-from-yl-computing/"><u>Step-by-Step Guide: Replacing Damaged Parts in Your Windows PC - Tips From YL Computing</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-professionals-choice-discover-the-best-5-video-editors-on-the-market/"><u>The Professional's Choice: Discover the Best 5 Video Editors on the Market</u></a></li>
+<li><a href="https://discover-help.techidaily.com/unlocking-your-screens-potential-step-by-step-guide-to-adjusting-display-options-expert-tips-from-yl-computing/"><u>Unlocking Your Screen's Potential: Step-by-Step Guide to Adjusting Display Options - Expert Tips From YL Computing</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/vanish-without-a-trace-tips-for-anonymous-instagram-live-for-2024/"><u>Vanish Without A Trace Tips for Anonymous Instagram Live for 2024</u></a></li>
 </ul></div>
 
