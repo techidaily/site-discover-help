@@ -1,7 +1,7 @@
 ---
 title: Lyric PlayStation LYRX v1.7 Update Released! Sing Your Heart Out with the New Karaoke Singer System | Compatible with PCDJ
-date: 2024-12-25T05:43:03.728Z
-updated: 2024-12-29T21:14:03.338Z
+date: 2025-01-07T08:27:47.610Z
+updated: 2025-01-09T07:08:42.690Z
 tags:
   - product
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/20ab7f66584fa785dda09306687fe5514b5df7248
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Download the official public release of LYRX 1.7 – now with KRS (Karaoke Singer Request) System!
@@ -27,7 +27,7 @@ thumbnail: https://thmb.techidaily.com/20ab7f66584fa785dda09306687fe5514b5df7248
 [![LYRX with KSR and Party Tyme](https://i1.wp.com/pcdj.com/wp-content/uploads/2021/05/LYRX.png?fit=300%2C189&ssl=1 "LYRX")](https://i1.wp.com/pcdj.com/wp-content/uploads/2021/05/LYRX.png?fit=1030%2C650&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 LYRX 1.7 is ready for download and as always, it’s a free update for LYRX KJs. Learn more and install the update below.
@@ -41,7 +41,7 @@ Also included are a number of performance improvement, optimizations for macOS C
 After extensive public testing on the [PCDJ User Group](http://www.facebook.com/groups/pcdjusergroup/), LYRX 1.7 is ready for live performance. We suggest LYRX customers update to 1.7 today!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What’s New, Changed, and Fixed in LYRX 1.7
@@ -58,7 +58,7 @@ After extensive public testing on the [PCDJ User Group](http://www.facebook.com/
 _Have questions about the latest 1.7 version of our LYRX **Karaoke Software** or the new **KSR Karaoke Singer Request system**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -80,18 +80,24 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2021/06/ksr-back-copy.jpg?fit=1200
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-expert-advice-on-maximizing-fidelity-in-vr-recording/"><u>[New] In 2024, Expert Advice on Maximizing Fidelity in VR Recording</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-step-by-step-lenovo-laptop-screen-recording/"><u>[New] In 2024, Step-by-Step Lenovo Laptop Screen Recording</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/embrace-artistic-expression-incorporating-anime-into-snapchat-for-2024/"><u>Embrace Artistic Expression Incorporating Anime Into Snapchat for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/enhancing-windows-volume-with-no-file-erasure/"><u>Enhancing Windows Volume with No File Erasure</u></a></li>
-<li><a href="https://techidaily.com/essential-techniques-to-refresh-bios-in-a-windows-11-environment/"><u>Essential Techniques to Refresh BIOS in a Windows 11 Environment</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-call-logs-from-tecno-pova-5-by-fonelab-android-recover-call-logs/"><u>How to rescue lost call logs from Tecno Pova 5</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-switch-cards-between-apple-iphone-se-and-other-iphones-will-move-all-phone-services-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Switch Cards Between Apple iPhone SE and other iPhones Will Move All Phone Services? | Dr.fone</u></a></li>
-<li><a href="https://discover-help.techidaily.com/revamp-your-display-a-users-manual-to-reconfigure-graphics-card-settings-with-yl-software/"><u>Revamp Your Display: A User's Manual to Reconfigure Graphics Card Settings with YL Software</u></a></li>
-<li><a href="https://discover-help.techidaily.com/solving-the-mystery-why-might-multiple-computers-fail-to-detect-your-scanner-insights-by-yl-software-experts/"><u>Solving the Mystery: Why Might Multiple Computers Fail To Detect Your Scanner, Insights by YL Software Experts</u></a></li>
-<li><a href="https://discover-help.techidaily.com/step-by-step-guide-setting-up-your-printers-software-on-a-windows-pc-expert-advice-from-yl-computing/"><u>Step-by-Step Guide: Setting Up Your Printer's Software on a Windows PC - Expert Advice From YL Computing</u></a></li>
-<li><a href="https://discover-help.techidaily.com/troubleshooting-a-non-responsive-computer-mouse-with-expert-tips-from-yl-software/"><u>Troubleshooting a Non-Responsive Computer Mouse with Expert Tips From YL Software</u></a></li>
-<li><a href="https://facebook.techidaily.com/whats-new-facebook-writes-checks-with-every-streamed-tune/"><u>What's New: Facebook’ Writes Checks with Every Streamed Tune</u></a></li>
-<li><a href="https://discover-help.techidaily.com/yl-computings-stunning-cinderace-wallpaper-collection-premium-high-resolution-graphics-by-yl-software/"><u>YL Computing's Stunning Cinderace Wallpaper Collection - Premium High-Resolution Graphics by YL Software</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-pioneering-gear-for-ultimate-vr-glove-experience/"><u>[New] Pioneering Gear for Ultimate VR Glove Experience</u></a></li>
+<li><a href="https://discover-help.techidaily.com/6-methoden-voor-het-oprigten-van-permanente-geelimineerde-archieven-in-windows-1011/"><u>6 Methoden Voor Het Oprigten Van Permanente Geëlimineerde Archieven In Windows 10/11</u></a></li>
+<li><a href="https://discover-help.techidaily.com/error-404-the-link-is-missing/"><u>Error 404: The Link Is Missing</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/expert-review-highest-quality-power-inverters-2n4/"><u>Expert Review: Highest Quality Power Inverters - 2N4</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-vivo-v29e-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Vivo V29e | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-vivo-y78t-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Vivo Y78t? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-infinix-note-30-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Infinix Note 30 Phone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-the-art-of-pinpointing-perfect-pexels-photographs/"><u>In 2024, The Art of Pinpointing Perfect Pexels Photographs</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/next-gen-learning-mondlys-tech-upgrade-for-education/"><u>Next-Gen Learning: Mondly’s Tech Upgrade for Education</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/optimizing-audio-quality-during-video-calls-on-win11/"><u>Optimizing Audio Quality During Video Calls on Win11</u></a></li>
+<li><a href="https://win-answers.techidaily.com/premier-video-transcoding-software-mp4-480p-edition-compatible-with-windows-11/"><u>Premier Video Transcoding Software: MP4 480P Edition Compatible with Windows 11</u></a></li>
+<li><a href="https://discover-help.techidaily.com/step-by-step-guide-transferring-your-windows-1011-user-account-to-a-new-storage-device/"><u>Step-by-Step Guide: Transferring Your Windows 10/11 User Account to a New Storage Device</u></a></li>
+<li><a href="https://discover-help.techidaily.com/step-by-step-guide-transforming-dem-demo-files-into-high-quality-mp4-videos/"><u>Step-by-Step Guide: Transforming DEM Demo Files Into High-Quality MP4 Videos</u></a></li>
+<li><a href="https://discover-help.techidaily.com/swf/"><u>SWFファイルの編集手順：特定費用なしで始めよう！</u></a></li>
+<li><a href="https://discover-help.techidaily.com/top-10-free-online-platforms-for-watching-and-streaming-anime/"><u>Top 10 Free Online Platforms for Watching and Streaming Anime</u></a></li>
+<li><a href="https://discover-help.techidaily.com/top-rated-dvd-to-avi-converter-software-of-2024-for-windows-11-users/"><u>Top Rated DVD to AVI Converter Software of 2024 for Windows 11 Users</u></a></li>
+<li><a href="https://discover-help.techidaily.com/troubleshooting-silent-videos-in-vlc-player-quick-fixes-for-lost-audio/"><u>Troubleshooting Silent Videos in VLC Player - Quick Fixes for Lost Audio</u></a></li>
+<li><a href="https://discover-help.techidaily.com/unlocking-global-cinema-three-techniques-to-enjoy-any-regions-dvd-without-limits/"><u>Unlocking Global Cinema: Three Techniques to Enjoy Any Region's DVD Without Limits</u></a></li>
+<li><a href="https://win-help.techidaily.com/1728491072639-windows10/"><u>Windows10基础设置重置手册：一步到位的系统回复流程</u></a></li>
 </ul></div>
 
