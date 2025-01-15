@@ -1,7 +1,7 @@
 ---
 title: Lyric PlayStation LYRX v1.7 Update Released! Sing Your Heart Out with the New Karaoke Singer System | Compatible with PCDJ
-date: 2025-01-07T08:27:47.610Z
-updated: 2025-01-09T07:08:42.690Z
+date: 2025-01-13T06:08:25.652Z
+updated: 2025-01-15T03:33:45.186Z
 tags:
   - product
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/20ab7f66584fa785dda09306687fe5514b5df7248
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Download the official public release of LYRX 1.7 – now with KRS (Karaoke Singer Request) System!
@@ -27,7 +27,7 @@ thumbnail: https://thmb.techidaily.com/20ab7f66584fa785dda09306687fe5514b5df7248
 [![LYRX with KSR and Party Tyme](https://i1.wp.com/pcdj.com/wp-content/uploads/2021/05/LYRX.png?fit=300%2C189&ssl=1 "LYRX")](https://i1.wp.com/pcdj.com/wp-content/uploads/2021/05/LYRX.png?fit=1030%2C650&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 LYRX 1.7 is ready for download and as always, it’s a free update for LYRX KJs. Learn more and install the update below.
@@ -41,7 +41,7 @@ Also included are a number of performance improvement, optimizations for macOS C
 After extensive public testing on the [PCDJ User Group](http://www.facebook.com/groups/pcdjusergroup/), LYRX 1.7 is ready for live performance. We suggest LYRX customers update to 1.7 today!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What’s New, Changed, and Fixed in LYRX 1.7
@@ -58,7 +58,7 @@ After extensive public testing on the [PCDJ User Group](http://www.facebook.com/
 _Have questions about the latest 1.7 version of our LYRX **Karaoke Software** or the new **KSR Karaoke Singer Request system**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -80,24 +80,18 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2021/06/ksr-back-copy.jpg?fit=1200
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-pioneering-gear-for-ultimate-vr-glove-experience/"><u>[New] Pioneering Gear for Ultimate VR Glove Experience</u></a></li>
-<li><a href="https://discover-help.techidaily.com/6-methoden-voor-het-oprigten-van-permanente-geelimineerde-archieven-in-windows-1011/"><u>6 Methoden Voor Het Oprigten Van Permanente Geëlimineerde Archieven In Windows 10/11</u></a></li>
-<li><a href="https://discover-help.techidaily.com/error-404-the-link-is-missing/"><u>Error 404: The Link Is Missing</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/expert-review-highest-quality-power-inverters-2n4/"><u>Expert Review: Highest Quality Power Inverters - 2N4</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-vivo-v29e-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Vivo V29e | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-vivo-y78t-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Vivo Y78t? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-infinix-note-30-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Infinix Note 30 Phone</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-the-art-of-pinpointing-perfect-pexels-photographs/"><u>In 2024, The Art of Pinpointing Perfect Pexels Photographs</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/next-gen-learning-mondlys-tech-upgrade-for-education/"><u>Next-Gen Learning: Mondly’s Tech Upgrade for Education</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/optimizing-audio-quality-during-video-calls-on-win11/"><u>Optimizing Audio Quality During Video Calls on Win11</u></a></li>
-<li><a href="https://win-answers.techidaily.com/premier-video-transcoding-software-mp4-480p-edition-compatible-with-windows-11/"><u>Premier Video Transcoding Software: MP4 480P Edition Compatible with Windows 11</u></a></li>
-<li><a href="https://discover-help.techidaily.com/step-by-step-guide-transferring-your-windows-1011-user-account-to-a-new-storage-device/"><u>Step-by-Step Guide: Transferring Your Windows 10/11 User Account to a New Storage Device</u></a></li>
-<li><a href="https://discover-help.techidaily.com/step-by-step-guide-transforming-dem-demo-files-into-high-quality-mp4-videos/"><u>Step-by-Step Guide: Transforming DEM Demo Files Into High-Quality MP4 Videos</u></a></li>
-<li><a href="https://discover-help.techidaily.com/swf/"><u>SWFファイルの編集手順：特定費用なしで始めよう！</u></a></li>
-<li><a href="https://discover-help.techidaily.com/top-10-free-online-platforms-for-watching-and-streaming-anime/"><u>Top 10 Free Online Platforms for Watching and Streaming Anime</u></a></li>
-<li><a href="https://discover-help.techidaily.com/top-rated-dvd-to-avi-converter-software-of-2024-for-windows-11-users/"><u>Top Rated DVD to AVI Converter Software of 2024 for Windows 11 Users</u></a></li>
-<li><a href="https://discover-help.techidaily.com/troubleshooting-silent-videos-in-vlc-player-quick-fixes-for-lost-audio/"><u>Troubleshooting Silent Videos in VLC Player - Quick Fixes for Lost Audio</u></a></li>
-<li><a href="https://discover-help.techidaily.com/unlocking-global-cinema-three-techniques-to-enjoy-any-regions-dvd-without-limits/"><u>Unlocking Global Cinema: Three Techniques to Enjoy Any Region's DVD Without Limits</u></a></li>
-<li><a href="https://win-help.techidaily.com/1728491072639-windows10/"><u>Windows10基础设置重置手册：一步到位的系统回复流程</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-stream-at-peak-performance-best-gpu-selection-guide/"><u>[Updated] Stream at Peak Performance Best GPU Selection Guide</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-conquering-the-dilemma-how-to-send-videos-on-facebook-message/"><u>2024 Approved Conquering the Dilemma How to Send Videos on Facebook Message</u></a></li>
+<li><a href="https://discover-help.techidaily.com/accidentally-trashed-your-downloads-easy-ways-to-recover-your-downloads-folder-in-windows-operating-systems/"><u>Accidentally Trashed Your Downloads? Easy Ways to Recover Your Downloads Folder in Windows Operating Systems</u></a></li>
+<li><a href="https://discover-help.techidaily.com/complete-guide-securely-restoring-your-iphone-without-data-loss/"><u>Complete Guide: Securely Restoring Your iPhone Without Data Loss</u></a></li>
+<li><a href="https://discover-help.techidaily.com/fehlerbehebung-fur-fehlende-dateien-bei-der-aktualisierung-von-windows-11-losungen-von-sorgenfrei/"><u>Fehlerbehebung Für Fehlende Dateien Bei Der Aktualisierung Von Windows 11: Lösungen Von Sorgenfrei</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-music-from-sony-xperia-1-v-by-fonelab-android-recover-music/"><u>How to Rescue Lost Music from Sony Xperia 1 V</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-show-wi-fi-password-on-vivo-x100-pro-by-drfone-android/"><u>How to Show Wi-Fi Password on Vivo X100 Pro</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-vivo-y78-5g-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Vivo Y78 5G to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://discover-help.techidaily.com/most-effective-gratis-samsung-evo-transfer-program-for-laptop-and-desktop-systems/"><u>Most Effective Gratis Samsung EVO Transfer Program for Laptop and Desktop Systems</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/samsung-galaxy-z-flip-7-preview-pricing-predictions-specs-leak-and-when-you-can-expect-it-to-hit-shelves/"><u>Samsung Galaxy Z Flip 7 Preview: Pricing Predictions, Specs Leak, and When You Can Expect It to Hit Shelves</u></a></li>
+<li><a href="https://discover-help.techidaily.com/step-by-step-guide-to-successfully-restoring-data-on-your-mmc-card/"><u>Step-by-Step Guide to Successfully Restoring Data on Your MMC Card</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/taking-control-of-security-answers-in-windows-11-local-account/"><u>Taking Control of Security Answers in Windows 11 Local Account</u></a></li>
+<li><a href="https://discover-help.techidaily.com/windows-11-refresh-image-creation-with-recimg-command/"><u>Windows 11 Refresh Image Creation with Recimg Command</u></a></li>
 </ul></div>
 
