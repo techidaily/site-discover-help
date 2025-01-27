@@ -1,7 +1,7 @@
 ---
 title: Lyric PlayStation LYRX v1.7 Update Released! Sing Your Heart Out with the New Karaoke Singer System | Compatible with PCDJ
-date: 2025-01-15T05:36:39.550Z
-updated: 2025-01-20T17:13:15.103Z
+date: 2025-01-24T08:13:25.896Z
+updated: 2025-01-26T23:04:26.948Z
 tags:
   - product
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/20ab7f66584fa785dda09306687fe5514b5df7248
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Download the official public release of LYRX 1.7 – now with KRS (Karaoke Singer Request) System!
@@ -27,7 +27,7 @@ thumbnail: https://thmb.techidaily.com/20ab7f66584fa785dda09306687fe5514b5df7248
 [![LYRX with KSR and Party Tyme](https://i1.wp.com/pcdj.com/wp-content/uploads/2021/05/LYRX.png?fit=300%2C189&ssl=1 "LYRX")](https://i1.wp.com/pcdj.com/wp-content/uploads/2021/05/LYRX.png?fit=1030%2C650&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 LYRX 1.7 is ready for download and as always, it’s a free update for LYRX KJs. Learn more and install the update below.
@@ -41,7 +41,7 @@ Also included are a number of performance improvement, optimizations for macOS C
 After extensive public testing on the [PCDJ User Group](http://www.facebook.com/groups/pcdjusergroup/), LYRX 1.7 is ready for live performance. We suggest LYRX customers update to 1.7 today!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What’s New, Changed, and Fixed in LYRX 1.7
@@ -58,7 +58,7 @@ After extensive public testing on the [PCDJ User Group](http://www.facebook.com/
 _Have questions about the latest 1.7 version of our LYRX **Karaoke Software** or the new **KSR Karaoke Singer Request system**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -80,21 +80,24 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2021/06/ksr-back-copy.jpg?fit=1200
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-elevate-social-media-content-to-hd-clarity-on-facebook/"><u>[Updated] 2024 Approved Elevate Social Media Content to HD Clarity on Facebook</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-empower-yourself-top-10-inspirational-movie-selections/"><u>[Updated] In 2024, Empower Yourself Top 10 Inspirational Movie Selections</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-tecno-spark-20-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Tecno Spark 20 | Dr.fone</u></a></li>
-<li><a href="https://discover-help.techidaily.com/compreendendo-a-copia-de-sombra-em-windows-11-todas-as-informacoes-essenciais-necessarias-saber/"><u>Compreendendo a Cópia De Sombra Em Windows 11: Todas as Informações Essenciais Necessárias Saber</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/detailed-instructions-maximizing-mobizen-record-functionality/"><u>Detailed Instructions Maximizing Mobizen Record Functionality</u></a></li>
-<li><a href="https://discover-help.techidaily.com/erste-schritte-zum-wiederauffinden-verschollener-verzeichnisse-unter-windows-10/"><u>Erste Schritte Zum Wiederauffinden Verschollener Verzeichnisse Unter Windows 10</u></a></li>
-<li><a href="https://discover-help.techidaily.com/expert-guide-to-restoring-data-on-adata-ssd-drives-step-by-step-tutorial/"><u>Expert Guide to Restoring Data on ADATA SSD Drives: Step-by-Step Tutorial</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/get-ahead-in-the-tech-game-insights-into-samsungs-galaxy-z-fold-6-its-specs-release-schedule-and-cost-estimates/"><u>Get Ahead in the Tech Game: Insights Into Samsung's Galaxy Z Fold 6, Its Specs, Release Schedule and Cost Estimates</u></a></li>
-<li><a href="https://discover-help.techidaily.com/guide-facile-et-rapide-pour-faire-reconnaitre-votre-carte-micro-sd-sous-windows-11/"><u>Guide Facile Et Rapide Pour Faire Reconnaître Votre Carte Micro-SD Sous Windows 11 !</u></a></li>
-<li><a href="https://discover-help.techidaily.com/how-to-overcome-the-file-is-being-used-problem-on-windows-11-systems/"><u>How to Overcome the 'File Is Being Used' Problem on Windows 11 Systems</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-full-guide-to-bypass-nubia-z50s-pro-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Nubia Z50S Pro FRP</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-premier-mac-mkv-solvers-list/"><u>In 2024, Premier Mac MKV Solvers List</u></a></li>
-<li><a href="https://discover-help.techidaily.com/troubleshooting-and-resolving-non-functional-seagate-dashboards-across-various-windows-versions/"><u>Troubleshooting and Resolving Non-Functional Seagate Dashboards Across Various Windows Versions</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/troubleshooting-techniques-for-optimizing-your-computers-input-devices-mice-and-keyboards-insights-by-yl-software-experts/"><u>Troubleshooting Techniques for Optimizing Your Computer's Input Devices, Mice and Keyboards – Insights by YL Software Experts</u></a></li>
-<li><a href="https://discover-help.techidaily.com/upgrading-to-windows-11s-final-version-moving-on-from-the-insider-beta-experience/"><u>Upgrading to Windows 11'S Final Version: Moving On From the Insider Beta Experience</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/verified-checkmark-on-x-master-these-tips-to-authenticate-your-profile-successfully/"><u>Verified Checkmark on X? Master These Tips to Authenticate Your Profile Successfully</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-a-closer-look-at-twitters-most-shared-videos-of-2023/"><u>[New] 2024 Approved A Closer Look at Twitter's Most Shared Videos of 2023</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-concluding-coverage-craftsmanship-for-2024/"><u>[New] Concluding Coverage Craftsmanship for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-social-media-shines-in-hd-fb-video-mastery-guide/"><u>[New] In 2024, Social Media Shines in HD FB Video Mastery Guide</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-snapchat-tricks-crafting-flawless-boomers/"><u>[Updated] In 2024, Snapchat Tricks Crafting Flawless Boomers</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/2024s-ultimate-selection-of-premium-compact-photography-gear-point-and-shoot-edition/"><u>2024'S Ultimate Selection of Premium Compact Photography Gear - Point & Shoot Edition</u></a></li>
+<li><a href="https://discover-help.techidaily.com/iumbjuwoupluss6ipluss7tjrjg4njg6njgqtjg5bjg4fjg5djgqtjgrnjgyzkv6hpolzjgafjgy3jgovjg5djg4pjgqjgqljg4pjg5fjgr3jg6rjg6xjg7zjgrfjg6fjg7pjgavjgakui3ljyhliiyi/"><u>過去事件:ドライブデバイスが信頼できるバックアップソリューションには不十分</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-honor-x8b-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Honor X8b</u></a></li>
+<li><a href="https://discover-help.techidaily.com/como-crear-efectivamente-un-sistema-de-copias-de-seguridad-facil-con-aomei-backupper/"><u>Cómo Crear Efectivamente Un Sistema De Copias De Seguridad Fácil Con AOMEI Backupper</u></a></li>
+<li><a href="https://discover-help.techidaily.com/effective-strategies-secure-your-data-with-command-prompt-backups-in-windows-10/"><u>Effective Strategies: Secure Your Data with Command Prompt Backups in Windows 10</u></a></li>
+<li><a href="https://discover-help.techidaily.com/effortlessly-copy-songs-from-iphone-to-ipod-touch-shuffle-or-nano-a-comprehensive-walkthrough/"><u>Effortlessly Copy Songs From iPhone to iPod Touch, Shuffle or Nano - A Comprehensive Walkthrough</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/enchanting-music-visuals-using-the-lyric-video-maker-toolkit-for-2024/"><u>Enchanting Music Visuals Using the Lyric Video Maker Toolkit for 2024</u></a></li>
+<li><a href="https://discover-help.techidaily.com/gratis-sicherungsprogramme-fur-windows-881-vorteilhafte-features-von-aomei-backupper/"><u>Gratis Sicherungsprogramme Für Windows 8/8.1: Vorteilhafte Features Von AOMEI Backupper</u></a></li>
+<li><a href="https://discover-help.techidaily.com/guida-passo-passo-come-clonare-il-disco-c-su-windows-server-2022/"><u>Guida Passo-Passo: Come Clonare Il Disco C Su Windows Server 2022</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/interactive-playtime-experience-the-ultimate-game-with-a-49-philips-evga-curve-oled-display/"><u>Interactive Playtime: Experience the Ultimate Game with a 49 Philips EVGA Curve OLED Display</u></a></li>
+<li><a href="https://discover-help.techidaily.com/la-strategia-ottimale-per-la-duplicazione-di-macchine-virtuali-windows-su-una-rete/"><u>La Strategia Ottimale per La Duplicazione Di Macchine Virtuali Windows Su Una Rete</u></a></li>
+<li><a href="https://win11.techidaily.com/master-your-windows-11-experience-introducing-an-augmented-run-feature/"><u>Master Your Windows 11 Experience: Introducing an Augmented Run Feature</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/pioneering-the-future-of-creation-and-repair-with-cutting-edge-ai-embracing-the-power-of-gpt-4/"><u>Pioneering the Future of Creation and Repair with Cutting-Edge AI: Embracing the Power of GPT-4</u></a></li>
+<li><a href="https://discover-help.techidaily.com/resolve-the-issue-quickly-expert-tips-to-overcome-doesnt-support-servicing-wpe-mistake-in-dism-tool/"><u>Resolve the Issue Quickly: Expert Tips to Overcome 'Doesn’t Support Servicing WPE' Mistake in DISM Tool</u></a></li>
+<li><a href="https://discover-help.techidaily.com/scaricare-e-copiare-in-automatico-i-file-con-lunita-usb-collegata-due-tecniche-utili/"><u>Scaricare E Copiare in Automatico I File Con L'unità USB Collegata - Due Tecniche Utili</u></a></li>
 </ul></div>
 
