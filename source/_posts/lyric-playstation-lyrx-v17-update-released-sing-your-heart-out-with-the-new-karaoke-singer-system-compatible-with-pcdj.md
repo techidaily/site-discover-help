@@ -1,7 +1,7 @@
 ---
 title: Lyric PlayStation LYRX v1.7 Update Released! Sing Your Heart Out with the New Karaoke Singer System | Compatible with PCDJ
-date: 2025-01-24T08:13:25.896Z
-updated: 2025-01-26T23:04:26.948Z
+date: 2025-02-05T22:45:40.888Z
+updated: 2025-02-09T08:58:41.224Z
 tags:
   - product
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/20ab7f66584fa785dda09306687fe5514b5df7248
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Download the official public release of LYRX 1.7 – now with KRS (Karaoke Singer Request) System!
@@ -27,7 +27,7 @@ thumbnail: https://thmb.techidaily.com/20ab7f66584fa785dda09306687fe5514b5df7248
 [![LYRX with KSR and Party Tyme](https://i1.wp.com/pcdj.com/wp-content/uploads/2021/05/LYRX.png?fit=300%2C189&ssl=1 "LYRX")](https://i1.wp.com/pcdj.com/wp-content/uploads/2021/05/LYRX.png?fit=1030%2C650&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 LYRX 1.7 is ready for download and as always, it’s a free update for LYRX KJs. Learn more and install the update below.
@@ -41,7 +41,7 @@ Also included are a number of performance improvement, optimizations for macOS C
 After extensive public testing on the [PCDJ User Group](http://www.facebook.com/groups/pcdjusergroup/), LYRX 1.7 is ready for live performance. We suggest LYRX customers update to 1.7 today!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What’s New, Changed, and Fixed in LYRX 1.7
@@ -58,7 +58,7 @@ After extensive public testing on the [PCDJ User Group](http://www.facebook.com/
 _Have questions about the latest 1.7 version of our LYRX **Karaoke Software** or the new **KSR Karaoke Singer Request system**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -80,24 +80,22 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2021/06/ksr-back-copy.jpg?fit=1200
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-a-closer-look-at-twitters-most-shared-videos-of-2023/"><u>[New] 2024 Approved A Closer Look at Twitter's Most Shared Videos of 2023</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-concluding-coverage-craftsmanship-for-2024/"><u>[New] Concluding Coverage Craftsmanship for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-social-media-shines-in-hd-fb-video-mastery-guide/"><u>[New] In 2024, Social Media Shines in HD FB Video Mastery Guide</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-snapchat-tricks-crafting-flawless-boomers/"><u>[Updated] In 2024, Snapchat Tricks Crafting Flawless Boomers</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/2024s-ultimate-selection-of-premium-compact-photography-gear-point-and-shoot-edition/"><u>2024'S Ultimate Selection of Premium Compact Photography Gear - Point & Shoot Edition</u></a></li>
-<li><a href="https://discover-help.techidaily.com/iumbjuwoupluss6ipluss7tjrjg4njg6njgqtjg5bjg4fjg5djgqtjgrnjgyzkv6hpolzjgafjgy3jgovjg5djg4pjgqjgqljg4pjg5fjgr3jg6rjg6xjg7zjgrfjg6fjg7pjgavjgakui3ljyhliiyi/"><u>過去事件:ドライブデバイスが信頼できるバックアップソリューションには不十分</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-honor-x8b-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Honor X8b</u></a></li>
-<li><a href="https://discover-help.techidaily.com/como-crear-efectivamente-un-sistema-de-copias-de-seguridad-facil-con-aomei-backupper/"><u>Cómo Crear Efectivamente Un Sistema De Copias De Seguridad Fácil Con AOMEI Backupper</u></a></li>
-<li><a href="https://discover-help.techidaily.com/effective-strategies-secure-your-data-with-command-prompt-backups-in-windows-10/"><u>Effective Strategies: Secure Your Data with Command Prompt Backups in Windows 10</u></a></li>
-<li><a href="https://discover-help.techidaily.com/effortlessly-copy-songs-from-iphone-to-ipod-touch-shuffle-or-nano-a-comprehensive-walkthrough/"><u>Effortlessly Copy Songs From iPhone to iPod Touch, Shuffle or Nano - A Comprehensive Walkthrough</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/enchanting-music-visuals-using-the-lyric-video-maker-toolkit-for-2024/"><u>Enchanting Music Visuals Using the Lyric Video Maker Toolkit for 2024</u></a></li>
-<li><a href="https://discover-help.techidaily.com/gratis-sicherungsprogramme-fur-windows-881-vorteilhafte-features-von-aomei-backupper/"><u>Gratis Sicherungsprogramme Für Windows 8/8.1: Vorteilhafte Features Von AOMEI Backupper</u></a></li>
-<li><a href="https://discover-help.techidaily.com/guida-passo-passo-come-clonare-il-disco-c-su-windows-server-2022/"><u>Guida Passo-Passo: Come Clonare Il Disco C Su Windows Server 2022</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/interactive-playtime-experience-the-ultimate-game-with-a-49-philips-evga-curve-oled-display/"><u>Interactive Playtime: Experience the Ultimate Game with a 49 Philips EVGA Curve OLED Display</u></a></li>
-<li><a href="https://discover-help.techidaily.com/la-strategia-ottimale-per-la-duplicazione-di-macchine-virtuali-windows-su-una-rete/"><u>La Strategia Ottimale per La Duplicazione Di Macchine Virtuali Windows Su Una Rete</u></a></li>
-<li><a href="https://win11.techidaily.com/master-your-windows-11-experience-introducing-an-augmented-run-feature/"><u>Master Your Windows 11 Experience: Introducing an Augmented Run Feature</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/pioneering-the-future-of-creation-and-repair-with-cutting-edge-ai-embracing-the-power-of-gpt-4/"><u>Pioneering the Future of Creation and Repair with Cutting-Edge AI: Embracing the Power of GPT-4</u></a></li>
-<li><a href="https://discover-help.techidaily.com/resolve-the-issue-quickly-expert-tips-to-overcome-doesnt-support-servicing-wpe-mistake-in-dism-tool/"><u>Resolve the Issue Quickly: Expert Tips to Overcome 'Doesn’t Support Servicing WPE' Mistake in DISM Tool</u></a></li>
-<li><a href="https://discover-help.techidaily.com/scaricare-e-copiare-in-automatico-i-file-con-lunita-usb-collegata-due-tecniche-utili/"><u>Scaricare E Copiare in Automatico I File Con L'unità USB Collegata - Due Tecniche Utili</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-streaming-service-comparison-facebook-live-vs-youtube-live-and-spaces/"><u>[New] 2024 Approved Streaming Service Comparison Facebook LIVE Vs. YouTube Live & Spaces</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-tweetturnstile-how-video-trends-surge-online/"><u>[New] 2024 Approved TweetTurnstile How Video Trends Surge Online</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-best-small-drone-models-today/"><u>[New] Best Small Drone Models Today</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-affordable-asmr-microphones-with-peak-performance-quality-crest/"><u>[New] In 2024, Affordable ASMR Microphones with Peak Performance, Quality Crest</u></a></li>
+<li><a href="https://discover-help.techidaily.com/1-best-screen-recording-apps-manycam-obs-studio-and-more/"><u>1. Best Screen Recording Apps: ManyCam, OBS Studio & More</u></a></li>
+<li><a href="https://discover-help.techidaily.com/1-multicam-pro-advanced-livestreaming-solutions-with-virtual-camera-features/"><u>1. MultiCam Pro: Advanced Livestreaming Solutions with Virtual Camera Features</u></a></li>
+<li><a href="https://discover-help.techidaily.com/1-real-time-streaming-mastery-with-manycam-ultimate-virtual-camera-solution/"><u>1. Real-Time Streaming Mastery with ManyCam: Ultimate Virtual Camera Solution</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/affordable-excellence-a-comprehensive-review-of-nokia-71-featuring-top-notch-display-and-photography/"><u>Affordable Excellence: A Comprehensive Review of Nokia 7.1 Featuring Top-Notch Display & Photography</u></a></li>
+<li><a href="https://discover-help.techidaily.com/best-screen-recording-apps-top-manycam-alternatives-with-live-streaming-features/"><u>Best Screen Recording Apps: Top ManyCam Alternatives with Live Streaming Features</u></a></li>
+<li><a href="https://discover-help.techidaily.com/dynamic-broadcasting-explore-manycams-ultimate-live-streaming-suite-with-superior-virtual-camera-capabilities/"><u>Dynamic Broadcasting: Explore ManyCam's Ultimate Live Streaming Suite with Superior Virtual Camera Capabilities</u></a></li>
+<li><a href="https://discover-help.techidaily.com/enhance-online-presence-with-manycam-professional-live-video-recording-and-fake-cam-features-unveiled/"><u>Enhance Online Presence with ManyCam: Professional Live Video Recording and Fake Cam Features Unveiled</u></a></li>
+<li><a href="https://discover-help.techidaily.com/enhance-your-broadcasts-using-manycam-innovative-live-video-platform-and-digital-webcam-technology/"><u>Enhance Your Broadcasts Using ManyCam: Innovative Live Video Platform and Digital Webcam Technology</u></a></li>
+<li><a href="https://discover-help.techidaily.com/enhance-your-broadcasts-with-manycam-the-go-to-live-video-editor-and-virtual-cam-solution/"><u>Enhance Your Broadcasts with ManyCam - The Go-To Live Video Editor and Virtual Cam Solution</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-incompatibility-issues-in-rainbow-six-extraction-top-strategies-to-get-you-playing-again/"><u>Fixing Incompatibility Issues in Rainbow Six Extraction – Top Strategies to Get You Playing Again</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/minecraft-wont-load-here-are-proven-fixes-to-resume-playing/"><u>Minecraft Won't Load? Here Are Proven Fixes to Resume Playing</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/reviving-lost-information-expert-guide-on-retrieving-data-from-non-functional-hard-drives/"><u>Reviving Lost Information: Expert Guide on Retrieving Data From Non-Functional Hard Drives</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/the-ultimate-list-of-top-rated-photo-restoration-experts-insights-into-benefits-and-limitations/"><u>The Ultimate List of Top-Rated Photo Restoration Experts - Insights Into Benefits and Limitations</u></a></li>
 </ul></div>
 

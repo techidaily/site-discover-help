@@ -1,7 +1,7 @@
 ---
 title: Pre-Release of DEX 3.4 Is Here – Free Download for PCDJ Users!
-date: 2025-01-25T20:00:26.578Z
-updated: 2025-01-26T18:38:16.724Z
+date: 2025-02-08T09:50:01.556Z
+updated: 2025-02-09T06:45:32.597Z
 tags:
   - product
 categories:
@@ -57,7 +57,7 @@ _**NOTE: This DEX 3.4 DJ Software Update Will Overwrite Your Existing DEX 3 Vers
 \*If you have any problems with 3.4, you can re-install DEX 3.3.3 from the DEX 3 support page [HERE](https://tools.techidaily.com/pcdj/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -79,18 +79,22 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2015/06/dex34prerelease-coverimage
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-tweettube-ios-devices-go-to-twitter-video-grabber/"><u>[New] In 2024, TweetTube IOS Device's Go-To Twitter Video Grabber</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-essential-software-for-high-quality-video-capture-on-windows-pcs/"><u>[Updated] Essential Software for High-Quality Video Capture on Windows PCs</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-revolutionize-online-sessions-with-essential-zoom-transformations/"><u>[Updated] Revolutionize Online Sessions with Essential Zoom Transformations</u></a></li>
-<li><a href="https://discover-help.techidaily.com/4-facili-strategie-di-conversione-ts-in-mp4-senza-compromettere-la-qualita-dellimmagine/"><u>4 Facili Strategie Di Conversione TS in MP4 Senza Compromettere La Qualità Dell'Immagine</u></a></li>
-<li><a href="https://discover-help.techidaily.com/mac-windows-pc-cd/"><u>无损率且免费的 Mac / Windows PC 上 CD 数据导入教程 - 新手完全解释</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-plus-reviewed-insights-into-its-strengths-and-weaknesses/"><u>ChatGPT Plus Reviewed: Insights Into Its Strengths and Weaknesses</u></a></li>
-<li><a href="https://discover-help.techidaily.com/decouvrez-comment-comprimer-efficacement-les-fichiers-mkv-repondre-a-vos-interrogations-genantes/"><u>Découvrez Comment Comprimer Efficacement Les Fichiers MKV : Répondre À Vos Interrogations Gênantes</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/enhance-your-website-with-cookiebot-technology-smart-data-driven-solutions/"><u>Enhance Your Website with Cookiebot Technology - Smart, Data-Driven Solutions</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-tips-successfully-completing-your-pending-windows-11-update-issues-addressed/"><u>Expert Tips: Successfully Completing Your Pending Windows 11 Update [ISSUES ADDRESSED]</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-highest-rated-nintendo-switch-battle-titles-max-156/"><u>In 2024, Highest-Rated Nintendo Switch Battle Titles (Max 156)</u></a></li>
-<li><a href="https://discover-help.techidaily.com/step-by-step-guide-removing-the-soundtrack-from-an-mkv-file-without-re-encoding/"><u>Step-by-Step Guide: Removing the Soundtrack From an MKV File Without Re-Encoding</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-steps-for-android-users-who-cant-get-texts-delivered/"><u>Troubleshooting Steps for Android Users Who Can’t Get Texts Delivered</u></a></li>
-<li><a href="https://discover-help.techidaily.com/ultimate-trick-for-mac-users-how-to-access-and-view-4k-movies-on-netflix-with-ease/"><u>Ultimate Trick for Mac Users: How To Access and View 4K Movies on Netflix with Ease!</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/-deeper-dive-into-youtube-seo-and-keywords/"><u>[New] A Deeper Dive Into YouTube SEO and Keywords</u></a></li>
+<li><a href="https://discover-help.techidaily.com/creating-irresistible-karaoke-playlists-strategies-to-keep-patrons-coming-back-for-more/"><u>Creating Irresistible Karaoke Playlists: Strategies to Keep Patrons Coming Back for More</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-nubia-red-magic-8s-pro-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Nubia Red Magic 8S Pro Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://discover-help.techidaily.com/effective-strategies-for-diagnosing-and-resolving-graphics-card-problems-guided-by-yl-tech-solutions/"><u>Effective Strategies for Diagnosing and Resolving Graphics Card Problems - Guided by YL Tech Solutions</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hassle-free-guide-to-secure-and-update-your-asus-monitor-drivers/"><u>Hassle-Free Guide to Secure and Update Your ASUS Monitor Drivers</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-7-ways-to-unlock-a-locked-meizu-21-pro-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Meizu 21 Pro Phone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-xiaomi-13t-pro-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Xiaomi 13T Pro</u></a></li>
+<li><a href="https://discover-help.techidaily.com/mastering-windows-11-customization-techniques-with-tips-from-yl-softwares-leading-professionals/"><u>Mastering Windows 11 Customization Techniques with Tips From YL Software's Leading Professionals</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-exploring-the-leading-podcast-editing-programs-comprehensive-guide-to-free-and-premium-options/"><u>New 2024 Approved Exploring the Leading Podcast Editing Programs Comprehensive Guide to Free & Premium Options</u></a></li>
+<li><a href="https://discover-help.techidaily.com/step-by-step-guide-adjusting-clock-settings-and-date-on-your-pc-tips-by-yl-software/"><u>Step-by-Step Guide: Adjusting Clock Settings & Date on Your PC - Tips by YL Software</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-correcting-binkw32dll-errors-on-your-pc/"><u>Step-by-Step Guide: Correcting binkw32.dll Errors on Your PC</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/tp-link-ac1200-wifi-expander-re305-an-expert-review-for-optimal-home-networking/"><u>TP-Link AC1200 WiFi Expander Re305: An Expert Review for Optimal Home Networking</u></a></li>
+<li><a href="https://discover-help.techidaily.com/understanding-the-causes-of-blurry-scans-a-guide-by-yl-computing/"><u>Understanding the Causes of Blurry Scans: A Guide by YL Computing</u></a></li>
+<li><a href="https://discover-help.techidaily.com/understanding-windows-defenders-constraints-a-comprehensive-guide-by-yl-computing/"><u>Understanding Windows Defender's Constraints: A Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/unlocking-full-potential-in-zoom-screensharing-for-2024/"><u>Unlocking Full Potential in Zoom Screensharing for 2024</u></a></li>
+<li><a href="https://discover-help.techidaily.com/yl-computing-wallpaper-collection-stunning-cosmic-backgrounds-high-resolution-space-themes-and-vibrant-digital-art/"><u>YL Computing Wallpaper Collection: Stunning Cosmic Backgrounds, High-Resolution Space Themes & Vibrant Digital Art</u></a></li>
+<li><a href="https://discover-help.techidaily.com/yl-software-tutorial-how-to-easily-reinstall-programs-via-the-control-panel/"><u>YL Software Tutorial: How to Easily Reinstall Programs via the Control Panel</u></a></li>
 </ul></div>
 
