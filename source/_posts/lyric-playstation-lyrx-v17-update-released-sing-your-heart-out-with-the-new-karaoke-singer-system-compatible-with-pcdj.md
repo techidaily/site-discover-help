@@ -1,7 +1,7 @@
 ---
 title: Lyric PlayStation LYRX v1.7 Update Released! Sing Your Heart Out with the New Karaoke Singer System | Compatible with PCDJ
-date: 2025-02-05T22:45:40.888Z
-updated: 2025-02-09T08:58:41.224Z
+date: 2025-02-12T19:37:26.579Z
+updated: 2025-02-18T16:57:45.358Z
 tags:
   - product
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/20ab7f66584fa785dda09306687fe5514b5df7248
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Download the official public release of LYRX 1.7 – now with KRS (Karaoke Singer Request) System!
@@ -27,7 +27,7 @@ thumbnail: https://thmb.techidaily.com/20ab7f66584fa785dda09306687fe5514b5df7248
 [![LYRX with KSR and Party Tyme](https://i1.wp.com/pcdj.com/wp-content/uploads/2021/05/LYRX.png?fit=300%2C189&ssl=1 "LYRX")](https://i1.wp.com/pcdj.com/wp-content/uploads/2021/05/LYRX.png?fit=1030%2C650&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 LYRX 1.7 is ready for download and as always, it’s a free update for LYRX KJs. Learn more and install the update below.
@@ -41,7 +41,7 @@ Also included are a number of performance improvement, optimizations for macOS C
 After extensive public testing on the [PCDJ User Group](http://www.facebook.com/groups/pcdjusergroup/), LYRX 1.7 is ready for live performance. We suggest LYRX customers update to 1.7 today!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What’s New, Changed, and Fixed in LYRX 1.7
@@ -58,7 +58,7 @@ After extensive public testing on the [PCDJ User Group](http://www.facebook.com/
 _Have questions about the latest 1.7 version of our LYRX **Karaoke Software** or the new **KSR Karaoke Singer Request system**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -80,22 +80,18 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2021/06/ksr-back-copy.jpg?fit=1200
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-streaming-service-comparison-facebook-live-vs-youtube-live-and-spaces/"><u>[New] 2024 Approved Streaming Service Comparison Facebook LIVE Vs. YouTube Live & Spaces</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-tweetturnstile-how-video-trends-surge-online/"><u>[New] 2024 Approved TweetTurnstile How Video Trends Surge Online</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-best-small-drone-models-today/"><u>[New] Best Small Drone Models Today</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-affordable-asmr-microphones-with-peak-performance-quality-crest/"><u>[New] In 2024, Affordable ASMR Microphones with Peak Performance, Quality Crest</u></a></li>
-<li><a href="https://discover-help.techidaily.com/1-best-screen-recording-apps-manycam-obs-studio-and-more/"><u>1. Best Screen Recording Apps: ManyCam, OBS Studio & More</u></a></li>
-<li><a href="https://discover-help.techidaily.com/1-multicam-pro-advanced-livestreaming-solutions-with-virtual-camera-features/"><u>1. MultiCam Pro: Advanced Livestreaming Solutions with Virtual Camera Features</u></a></li>
-<li><a href="https://discover-help.techidaily.com/1-real-time-streaming-mastery-with-manycam-ultimate-virtual-camera-solution/"><u>1. Real-Time Streaming Mastery with ManyCam: Ultimate Virtual Camera Solution</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/affordable-excellence-a-comprehensive-review-of-nokia-71-featuring-top-notch-display-and-photography/"><u>Affordable Excellence: A Comprehensive Review of Nokia 7.1 Featuring Top-Notch Display & Photography</u></a></li>
-<li><a href="https://discover-help.techidaily.com/best-screen-recording-apps-top-manycam-alternatives-with-live-streaming-features/"><u>Best Screen Recording Apps: Top ManyCam Alternatives with Live Streaming Features</u></a></li>
-<li><a href="https://discover-help.techidaily.com/dynamic-broadcasting-explore-manycams-ultimate-live-streaming-suite-with-superior-virtual-camera-capabilities/"><u>Dynamic Broadcasting: Explore ManyCam's Ultimate Live Streaming Suite with Superior Virtual Camera Capabilities</u></a></li>
-<li><a href="https://discover-help.techidaily.com/enhance-online-presence-with-manycam-professional-live-video-recording-and-fake-cam-features-unveiled/"><u>Enhance Online Presence with ManyCam: Professional Live Video Recording and Fake Cam Features Unveiled</u></a></li>
-<li><a href="https://discover-help.techidaily.com/enhance-your-broadcasts-using-manycam-innovative-live-video-platform-and-digital-webcam-technology/"><u>Enhance Your Broadcasts Using ManyCam: Innovative Live Video Platform and Digital Webcam Technology</u></a></li>
-<li><a href="https://discover-help.techidaily.com/enhance-your-broadcasts-with-manycam-the-go-to-live-video-editor-and-virtual-cam-solution/"><u>Enhance Your Broadcasts with ManyCam - The Go-To Live Video Editor and Virtual Cam Solution</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-incompatibility-issues-in-rainbow-six-extraction-top-strategies-to-get-you-playing-again/"><u>Fixing Incompatibility Issues in Rainbow Six Extraction – Top Strategies to Get You Playing Again</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/minecraft-wont-load-here-are-proven-fixes-to-resume-playing/"><u>Minecraft Won't Load? Here Are Proven Fixes to Resume Playing</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/reviving-lost-information-expert-guide-on-retrieving-data-from-non-functional-hard-drives/"><u>Reviving Lost Information: Expert Guide on Retrieving Data From Non-Functional Hard Drives</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/the-ultimate-list-of-top-rated-photo-restoration-experts-insights-into-benefits-and-limitations/"><u>The Ultimate List of Top-Rated Photo Restoration Experts - Insights Into Benefits and Limitations</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-from-startup-to-standout-10-steps-to-thriving-in-the-world-of-smm/"><u>[New] From Startup to Standout 10 Steps to Thriving in the World of SMM</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-quick-fix-tips-crafting-charming-insta-groups/"><u>[New] Quick-Fix Tips Crafting Charming Insta Groups</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-a-detailed-exploration-youtubes-visionary-suite-for-2024/"><u>[Updated] A Detailed Exploration YouTube's Visionary Suite for 2024</u></a></li>
+<li><a href="https://discover-help.techidaily.com/comment-recuperer-des-fichiers-supprimes-sur-un-portable-acer/"><u>Comment Récupérer Des Fichiers Supprimés Sur Un Portable Acer</u></a></li>
+<li><a href="https://discover-help.techidaily.com/comprehensive-step-by-step-tutorial-upgrading-your-laptop-from-hdd-to-ssd-on-windows-1011/"><u>Comprehensive Step-by-Step Tutorial: Upgrading Your Laptop From HDD to SSD on Windows 10/11</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-create-an-apple-developer-account-from-iphone-14-by-drfone-ios/"><u>How To Create an Apple Developer Account From iPhone 14</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlock-apple-id-from-your-apple-iphone-se-2022-without-security-questions-by-drfone-ios/"><u>In 2024, How to Unlock Apple ID From your Apple iPhone SE (2022) without Security Questions?</u></a></li>
+<li><a href="https://discover-help.techidaily.com/mastering-file-management-with-synctoy-on-windows-11-an-ultimate-guide-and-premium-free-alternatives-explored/"><u>Mastering File Management with SyncToy on Windows 11: An Ultimate Guide & Premium Free Alternatives Explored</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcome-mouse-pad-malfunctions-lenovo-solutions-compatible-with-windows-versions-1187/"><u>Overcome Mouse Pad Malfunctions: Lenovo Solutions Compatible with Windows Versions [11/8/7]</u></a></li>
+<li><a href="https://discover-help.techidaily.com/recovering-lost-avchd-footage-discover-3-simple-no-cost-methods/"><u>Recovering Lost AVCHD Footage: Discover 3 Simple, No-Cost Methods</u></a></li>
+<li><a href="https://discover-help.techidaily.com/step-by-step-tutorial-access-and-converse-via-imessage-on-your-windows-or-mac-computer/"><u>Step-by-Step Tutorial: Access and Converse via iMessage on Your Windows or Mac Computer</u></a></li>
+<li><a href="https://discover-help.techidaily.com/ultimate-troubleshooting-tips-for-overcoming-the-perplexing-0xc00001error-in-windows/"><u>Ultimate Troubleshooting Tips for Overcoming the Perplexing 0xC00001_Error in Windows</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/what-is-predictive-ai-and-how-does-it-work/"><u>What Is Predictive AI, and How Does It Work?</u></a></li>
 </ul></div>
 
