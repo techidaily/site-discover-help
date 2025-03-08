@@ -1,7 +1,7 @@
 ---
 title: Lyric PlayStation LYRX v1.7 Update Released! Sing Your Heart Out with the New Karaoke Singer System | Compatible with PCDJ
-date: 2025-02-12T19:37:26.579Z
-updated: 2025-02-18T16:57:45.358Z
+date: 2025-03-05T21:32:42.871Z
+updated: 2025-03-07T21:41:11.797Z
 tags:
   - product
 categories:
@@ -18,17 +18,9 @@ thumbnail: https://thmb.techidaily.com/20ab7f66584fa785dda09306687fe5514b5df7248
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Download the official public release of LYRX 1.7 – now with KRS (Karaoke Singer Request) System!
 
 [![LYRX with KSR and Party Tyme](https://i1.wp.com/pcdj.com/wp-content/uploads/2021/05/LYRX.png?fit=300%2C189&ssl=1 "LYRX")](https://i1.wp.com/pcdj.com/wp-content/uploads/2021/05/LYRX.png?fit=1030%2C650&ssl=1)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 LYRX 1.7 is ready for download and as always, it’s a free update for LYRX KJs. Learn more and install the update below.
 
@@ -39,10 +31,6 @@ Version 1.7 of LYRX also includes a much requested “Singer Scroll” feature t
 Also included are a number of performance improvement, optimizations for macOS Catalina and Windows 10, as well as bug fixes, most notable for some older zip file types that were causing issues for some hosts.
 
 After extensive public testing on the [PCDJ User Group](http://www.facebook.com/groups/pcdjusergroup/), LYRX 1.7 is ready for live performance. We suggest LYRX customers update to 1.7 today!
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### What’s New, Changed, and Fixed in LYRX 1.7
 
@@ -56,10 +44,6 @@ After extensive public testing on the [PCDJ User Group](http://www.facebook.com/
 **IMPORTANT NOTE:** If you receive this warning _“LYRX\_1.7.pkg can’t be opened because Apple cannot check it for malicious software. this software needs to be updated. Contact the developer for more information”_ when installing to macOS Catalina [please follow the steps on Apple’s website](https://support.apple.com/guide/mac-help/open-a-mac-app-from-an-unidentified-developer-mh40616/mac) to install LYRX 1.7.
 
 _Have questions about the latest 1.7 version of our LYRX **Karaoke Software** or the new **KSR Karaoke Singer Request system**? Please leave them in the comments section below!_
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### _Related_
 
@@ -80,18 +64,18 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2021/06/ksr-back-copy.jpg?fit=1200
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-from-startup-to-standout-10-steps-to-thriving-in-the-world-of-smm/"><u>[New] From Startup to Standout 10 Steps to Thriving in the World of SMM</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-quick-fix-tips-crafting-charming-insta-groups/"><u>[New] Quick-Fix Tips Crafting Charming Insta Groups</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-a-detailed-exploration-youtubes-visionary-suite-for-2024/"><u>[Updated] A Detailed Exploration YouTube's Visionary Suite for 2024</u></a></li>
-<li><a href="https://discover-help.techidaily.com/comment-recuperer-des-fichiers-supprimes-sur-un-portable-acer/"><u>Comment Récupérer Des Fichiers Supprimés Sur Un Portable Acer</u></a></li>
-<li><a href="https://discover-help.techidaily.com/comprehensive-step-by-step-tutorial-upgrading-your-laptop-from-hdd-to-ssd-on-windows-1011/"><u>Comprehensive Step-by-Step Tutorial: Upgrading Your Laptop From HDD to SSD on Windows 10/11</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-create-an-apple-developer-account-from-iphone-14-by-drfone-ios/"><u>How To Create an Apple Developer Account From iPhone 14</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlock-apple-id-from-your-apple-iphone-se-2022-without-security-questions-by-drfone-ios/"><u>In 2024, How to Unlock Apple ID From your Apple iPhone SE (2022) without Security Questions?</u></a></li>
-<li><a href="https://discover-help.techidaily.com/mastering-file-management-with-synctoy-on-windows-11-an-ultimate-guide-and-premium-free-alternatives-explored/"><u>Mastering File Management with SyncToy on Windows 11: An Ultimate Guide & Premium Free Alternatives Explored</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcome-mouse-pad-malfunctions-lenovo-solutions-compatible-with-windows-versions-1187/"><u>Overcome Mouse Pad Malfunctions: Lenovo Solutions Compatible with Windows Versions [11/8/7]</u></a></li>
-<li><a href="https://discover-help.techidaily.com/recovering-lost-avchd-footage-discover-3-simple-no-cost-methods/"><u>Recovering Lost AVCHD Footage: Discover 3 Simple, No-Cost Methods</u></a></li>
-<li><a href="https://discover-help.techidaily.com/step-by-step-tutorial-access-and-converse-via-imessage-on-your-windows-or-mac-computer/"><u>Step-by-Step Tutorial: Access and Converse via iMessage on Your Windows or Mac Computer</u></a></li>
-<li><a href="https://discover-help.techidaily.com/ultimate-troubleshooting-tips-for-overcoming-the-perplexing-0xc00001error-in-windows/"><u>Ultimate Troubleshooting Tips for Overcoming the Perplexing 0xC00001_Error in Windows</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/what-is-predictive-ai-and-how-does-it-work/"><u>What Is Predictive AI, and How Does It Work?</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-innovative-title-crafting-with-top-10-ai-tools/"><u>[Updated] In 2024, Innovative Title Crafting with Top 10 AI Tools</u></a></li>
+<li><a href="https://discover-help.techidaily.com/download-free-honda-civic-eg-hatch-car-decal-images-and-custom-wallpaper-packs-by-yl-technologies/"><u>Download Free Honda Civic EG Hatch Car Decal Images and Custom Wallpaper Packs by YL Technologies</u></a></li>
+<li><a href="https://discover-help.techidaily.com/easy-fix-how-to-customize-display-settings-in-windows-11-with-expert-advice-by-yl-software/"><u>Easy Fix: How to Customize Display Settings in Windows 11 with Expert Advice by YL Software</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-motorola-moto-g13-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Motorola Moto G13 | Dr.fone</u></a></li>
+<li><a href="https://discover-help.techidaily.com/how-to-upgrade-your-graphic-card-when-its-outdated-tips-from-yl-computing/"><u>How to Upgrade Your Graphic Card When It's Outdated - Tips From YL Computing</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfersync-notes-from-apple-iphone-13-mini-to-ipad-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer/Sync Notes from Apple iPhone 13 mini to iPad | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-analysis-the-capabilities-of-the-original-prusa-xl-with-its-large-build-plate-and-five-simultaneous-toolheads/"><u>In-Depth Analysis: The Capabilities of the Original Prusa XL with Its Large Build Plate and Five Simultaneous Toolheads</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/silicon-photonics-leap-forward-by-tsmc-achieving-unmatched-12n8-terabitsecond-on-package-optical-communication-for-ai-applications/"><u>Silicon Photonics Leap Forward by TSMC - Achieving Unmatched 12.n8 Terabit/Second On-Package Optical Communication for AI Applications</u></a></li>
+<li><a href="https://discover-help.techidaily.com/speed-up-your-pc-instantly-discover-the-best-optimization-software-by-yl-computing/"><u>Speed Up Your PC Instantly! Discover the Best Optimization Software by YL Computing</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamlining-windows-repairs-setting-up-shortcuts-for-troubleshooters/"><u>Streamlining Windows Repairs: Setting Up Shortcuts for Troubleshooters</u></a></li>
+<li><a href="https://discover-help.techidaily.com/troubleshooting-installation-problems-in-yl-software-why-do-you-get-an-error-message/"><u>Troubleshooting Installation Problems in YL Software - Why Do You Get an Error Message?</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unleash-creative-potential-with-green-screen-tips/"><u>Unleash Creative Potential with Green Screen Tips</u></a></li>
+<li><a href="https://discover-help.techidaily.com/winter-wonderland-professional-snowy-scenes-high-res-backgrounds-and-walls-by-yl-computing/"><u>Winter Wonderland: Professional Snowy Scenes, High-Res Backgrounds & Walls - By YL Computing</u></a></li>
 </ul></div>
 
